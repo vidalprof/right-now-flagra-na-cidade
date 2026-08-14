@@ -1,1497 +1,1002 @@
 {
  "titulo": "RIGHT NOW - Flagra na Cidade",
- "sub": "Ingles - 9o ano - o que esta acontecendo AGORA",
+ "sub": "Inglês · 9º ano · Present Continuous",
  "ano": "9º ano",
  "prefixo": "rn",
  "mascote": "pixel",
  "mascoteNome": "Pixel",
- "voz": "masculina",
  "crachas": 6,
  "fundo": "rn_fundo.png",
- "convite": "<b>Quem assina o plantão</b> de hoje?",
- "abertura": "A redação do RIGHT NOW está no ar e o drone Pixel manda foto atrás de foto da cidade — só que todas chegam sem legenda. Foto sem legenda não conta nada, e a edição fecha em minutos. Hoje o plantão é seu: olhe a cena e diga o que está acontecendo neste exato momento.",
- "fim": "A edição fechou com as suas legendas, e o RIGHT NOW foi para a rua contando o que estava mesmo acontecendo. Amanhã o Pixel volta com as fotos de ontem — e aí a pergunta muda: como se conta o que JÁ estava acontecendo quando a foto foi tirada? Guarde essa.",
- "mesa": "9º ano: quem manda no conteúdo é o ESPECIALISTA DA DISCIPLINA — professor de Língua Inglesa dos Anos Finais —, com o roteirista, o game designer, o especialista em interatividade, o web designer, o diretor de arte, o engenheiro e o PhD de testes (_padrao/RECEITA.md, secao 0-A). ATENCAO, SEM CITACAO DE CURRICULO: o _curriculo/blumenau.txt que temos NAO traz a parte de Lingua Inglesa em forma legivel (so aparece a mencao no sumario). Por isso NADA aqui e apresentado como copia literal de Blumenau nem da BNCC. O campo 'curriculo' abaixo traz o OBJETIVO DO PROFESSOR, nas palavras do proprio Marcos (ago/2026), recortado degrau por degrau. Quando a parte de Ingles do curriculo estiver legivel, trocar por citacao de verdade — inventar fonte e o unico defeito que o professor nao tem como auditar sozinho.",
+ "arte": {
+  "cenario": "a cozy small-town newspaper newsroom with desks, a corkboard full of city photos and a window showing a Blumenau-style street",
+  "mascote": "Pixel, a curious teen news reporter with a small instant camera on the neck, denim jacket, friendly confident smile"
+ },
+ "convite": "<b>Quem vai ser o rep&#243;rter</b> hoje?",
+ "abertura": "O jornal <b>RIGHT NOW</b> s&#243; conta o que est&#225; acontecendo <b>agora</b>, neste instante. O Pixel saiu &#224; rua e voltou com um monte de <b>fotos</b>... mas as <b>legendas sumiram</b>! Sem elas, ningu&#233;m sabe o que cada pessoa <b>est&#225; fazendo</b>. <b>Vem me ajudar</b> a fechar a edi&#231;&#227;o de hoje?",
+ "fim": "A edi&#231;&#227;o fechou com as SUAS legendas &#8212; e o RIGHT NOW foi para a rua contando o que estava mesmo acontecendo! Amanh&#227; o Pixel volta com as fotos de <b>ontem</b>... e a&#237; a pergunta muda.",
+ "mesa": "ESPECIALISTA DE INGL&#202;S (9º ano) + roteirista, game designer, especialista em interatividade, web designer, diretor de arte, engenheiro e o PhD de testes. Foco: Present Continuous como a l&#237;ngua REAL de um rep&#243;rter que narra o que v&#234; acontecendo na hora.",
  "conceitos": {
-  "objetivo1": "Ver a ação do momento",
-  "objetivo2": "As duas peças da legenda",
-  "objetivo3": "Escolher am, is ou are",
-  "objetivo4": "Escrever a ação com -ing",
-  "objetivo5": "Agora ou de sempre",
-  "objetivo6": "A legenda que nega",
-  "objetivo7": "A pergunta do repórter",
-  "objetivo8": "Fechar a manchete"
+  "objetivo1": "O que est&#225; acontecendo AGORA (verbo + -ing)",
+  "objetivo2": "am, is, are: o be certo com cada pessoa",
+  "objetivo3": "Montar a frase inteira (sujeito + be + verbo-ing)",
+  "objetivo4": "Dizer que N&#195;O e PERGUNTAR",
+  "objetivo5": "Legendar as fotos: usar tudo junto"
  },
  "curriculo": {
-  "objetivo1": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: reconhecer, OLHANDO a imagem, que a ação está acontecendo agora e relacionar cada personagem à ação que ele realiza no momento.",
-  "objetivo2": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: identificar as DUAS peças da forma do agora — o auxiliar (to be) e o verbo terminado em -ing — e montar a legenda completa.",
-  "objetivo3": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: escolher o auxiliar certo (am / is / are) conforme o sujeito da legenda: uma pessoa, mais de uma, ou eu mesmo.",
-  "objetivo4": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: escrever a ação com -ing observando as mudanças de grafia (dobra a consoante, cai o -e, o verbo não muda).",
-  "objetivo5": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: distinguir o que acontece AGORA do que é costume, pelas marcas de tempo (right now, look! / every Sunday, usually).",
-  "objetivo6": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: negar uma cena com a ordem certa: auxiliar, not, ação com -ing.",
-  "objetivo7": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: perguntar sobre a cena com a ordem certa (auxiliar antes do sujeito) e responder ao que se pergunta.",
-  "objetivo8": "RETOMADA no 9º ano de objeto do 6º: o \"Presente contínuo – Present Continuous\" está na tabela de Língua Inglesa do 6º ano do Currículo de Blumenau (a do 9º trata de argumentação e tomada de notas). Pedido do professor Marcos (ago/2026) para a turma dele. Degrau: produzir a própria legenda/manchete de uma foto, usando a forma do agora com autonomia — e explicar a regra a outra pessoa."
+  "objetivo1": "BNCC LI, Conhecimentos Lingu&#237;sticos: empregar o Present Continuous (be + verbo-ing) para a&#231;&#245;es em progresso no momento da fala.",
+  "objetivo2": "BNCC LI: usar am/is/are concordando com o sujeito em a&#231;&#245;es em progresso.",
+  "objetivo3": "BNCC LI: produzir frases afirmativas no Present Continuous (sujeito + be + verbo-ing).",
+  "objetivo4": "BNCC LI: formar a negativa (isn't/aren't) e a interrogativa (Is/Are...?) do Present Continuous.",
+  "objetivo5": "BNCC LI: mobilizar o Present Continuous em contexto comunicativo real (legendar imagens/relatar a cena)."
  },
  "fases": [
   {
    "id": "f01",
-   "mec": "classificar",
-   "selo": "SEM LEGENDA",
-   "enunciado": "As fotos do drone chegaram sem legenda nenhuma. Olhe cada foto e ponha na bandeja da ação que está acontecendo ali.",
-   "dica": "Não comece pelo nome escrito embaixo: olhe o corpo da pessoa na foto e veja o que ela está fazendo.",
+   "mec": "escolher",
+   "selo": "WHAT IS HAPPENING NOW?",
+   "enunciado": "Look at the photo. What is the person doing <b>right now</b>?",
+   "dica": "A a&#231;&#227;o est&#225; acontecendo AGORA: o verbo termina em <b>-ing</b>.",
    "conceito": "objetivo1",
    "dados": [
     {
-     "k": "eat",
-     "n": "EATING<br>(comendo agora)"
+     "img": "rn_cooking",
+     "p": "What is she doing right now?",
+     "c": "She is cooking.",
+     "e": [
+      "She is sleeping.",
+      "She is reading.",
+      "She is running."
+     ],
+     "d": [
+      "Olhe as m&#227;os dela e a panela no fog&#227;o.",
+      "Cozinhar em ingl&#234;s &#233; <b>to cook</b> &#8594; cook<b>ing</b>."
+     ]
     },
     {
-     "k": "run",
-     "n": "RUNNING<br>(correndo agora)"
+     "img": "rn_riding",
+     "p": "What is she doing right now?",
+     "c": "She is riding a bike.",
+     "e": [
+      "She is cooking.",
+      "She is dancing.",
+      "She is swimming."
+     ],
+     "d": [
+      "Ela est&#225; em cima de quê?",
+      "Andar de bicicleta &#233; <b>to ride a bike</b> &#8594; rid<b>ing</b>."
+     ]
+    },
+    {
+     "img": "rn_playing_football",
+     "p": "What are they doing right now?",
+     "c": "They are playing football.",
+     "e": [
+      "They are eating.",
+      "They are painting.",
+      "They are singing."
+     ],
+     "d": [
+      "S&#227;o dois meninos e uma bola.",
+      "São <b>eles</b>: use <b>are</b> + play<b>ing</b>."
+     ]
+    },
+    {
+     "img": "rn_playing_guitar",
+     "p": "What is he doing right now?",
+     "c": "He is playing the guitar.",
+     "e": [
+      "He is watching TV.",
+      "He is writing.",
+      "He is jumping."
+     ],
+     "d": [
+      "Olhe o instrumento nas m&#227;os dele.",
+      "Tocar viol&#227;o &#233; <b>to play the guitar</b>."
+     ]
     }
    ],
    "dadosExtra": {
-    "FICHAS": [
-     {
-      "t": "THE BOY",
-      "alvo": "eat",
-      "img": "rn_boy_eating"
-     },
-     {
-      "t": "THE WOMAN",
-      "alvo": "eat",
-      "img": "rn_woman_eating"
-     },
-     {
-      "t": "THE TWO KIDS",
-      "alvo": "eat",
-      "img": "rn_kids_eating"
-     },
-     {
-      "t": "THE RUNNER",
-      "alvo": "run",
-      "img": "rn_runner_running"
-     },
-     {
-      "t": "THE MAN",
-      "alvo": "run",
-      "img": "rn_man_running"
-     },
-     {
-      "t": "THE GIRL",
-      "alvo": "run",
-      "img": "rn_girl_running"
-     }
-    ],
-    "DICAS": [
-     "Olhe as mãos e a boca da pessoa: ela está levando alguma coisa à boca ou está com um pé no ar?",
-     "Quem come segura o alimento e o leva à boca. Quem corre inclina o corpo para a frente e tira um pé do chão. EATING é comendo; RUNNING é correndo.",
-     "Olhe a bandeja com a borda amarela: é ali que esta foto entra."
-    ],
-    "ENUN": "Toque na foto e depois na bandeja da ação que ela mostra."
+    "TITULO": "WHAT IS HAPPENING NOW?",
+    "FECHO": "You can read what is happening now!"
    }
   },
   {
    "id": "f02",
    "mec": "ligar",
-   "selo": "QUEM FAZ O QUÊ",
-   "enunciado": "O drone mandou também a lista de quem apareceu na praça. Ligue cada pessoa à ação que ela está fazendo neste momento.",
-   "dica": "A palavra da esquerda já conta qual é o trabalho da pessoa. Procure a ação que combina com esse trabalho.",
+   "selo": "MAKE IT -ING",
+   "enunciado": "Ligue cada verbo com a forma <b>-ing</b> dele.",
+   "dica": "A maioria s&#243; ganha <b>-ing</b>. Alguns dobram a letra ou perdem o <b>e</b>.",
    "conceito": "objetivo1",
    "dados": [
     {
-     "k": "p0",
-     "t": "THE COOK",
-     "s": "is frying pastel"
+     "k": "cook",
+     "t": "cook",
+     "s": "cooking"
     },
     {
-     "k": "p1",
-     "t": "THE CYCLIST",
-     "s": "is riding a bike"
+     "k": "play",
+     "t": "play",
+     "s": "playing"
     },
     {
-     "k": "p2",
-     "t": "THE DANCER",
-     "s": "is moving to the music"
+     "k": "run",
+     "t": "run",
+     "s": "running"
     },
     {
-     "k": "p3",
-     "t": "THE READER",
-     "s": "is holding a newspaper"
+     "k": "write",
+     "t": "write",
+     "s": "writing"
+    },
+    {
+     "k": "dance",
+     "t": "dance",
+     "s": "dancing"
+    },
+    {
+     "k": "sit",
+     "t": "sit",
+     "s": "sitting"
     }
    ],
    "dadosExtra": {
+    "ENUN": "Ligue cada verbo com a forma <b>-ing</b> dele.",
     "DICAS": [
-     "Leia a palavra da esquerda em voz baixa: ela diz o que a pessoa faz na cidade.",
-     "THE COOK trabalha com comida. THE CYCLIST anda sobre duas rodas. THE DANCER se mexe com a música. THE READER segura alguma coisa para ler. Siga a linha tracejada que apareceu.",
-     "Olhe do outro lado: a resposta certa está acesa, no fim da linha. Toque nela."
+     "O normal &#233; s&#243; colar <b>-ing</b>: play &#8594; playing.",
+     "Verbo curto com uma vogal dobra a &#250;ltima letra: run &#8594; ru<b>nn</b>ing, sit &#8594; si<b>tt</b>ing.",
+     "Verbo que acaba em <b>e</b> perde o <b>e</b>: write &#8594; writ<b>ing</b>, dance &#8594; danc<b>ing</b>."
     ],
-    "FEITOS": [],
-    "ENUN": "Ligue cada <b>pessoa</b> à <b>ação</b> que ela está fazendo agora.",
-    "FECHO": "Você ligou cada pessoa à ação dela!"
+    "FECHO": "You know how to build the -ing form!",
+    "FEITOS": []
    }
   },
   {
    "id": "f03",
-   "mec": "intruso",
-   "selo": "A FOTO QUE NÃO COMBINA",
-   "enunciado": "Chegaram quatro fotos juntas. Em três delas as pessoas estão fazendo a mesma coisa neste momento. Ache a que não combina.",
-   "dica": "Olhe os olhos e as mãos de cada pessoa antes de decidir.",
+   "mec": "completar",
+   "selo": "FINISH THE CAPTION",
+   "enunciado": "Toque no peda&#231;o que <b>falta</b> na legenda da foto.",
+   "dica": "Olhe a foto e pense no que a pessoa est&#225; fazendo.",
    "conceito": "objetivo1",
    "dados": [
     {
-     "selo": "A FOTO QUE NÃO COMBINA",
-     "tipo": "texto",
-     "enun": "Três destas fotos mostram gente fazendo a MESMA coisa agora. <b>Qual não combina?</b>",
-     "itens": [
-      {
-       "k": "banco",
-       "n": "AT THE BENCH",
-       "img": "rn_read_news"
-      },
-      {
-       "k": "escada",
-       "n": "ON THE STAIRS",
-       "img": "rn_read_book"
-      },
-      {
-       "k": "banca",
-       "n": "AT THE STAND",
-       "img": "rn_read_menu"
-      },
-      {
-       "k": "redacao",
-       "n": "IN THE NEWSROOM",
-       "img": "rn_write_note"
-      }
+     "img": "rn_reading",
+     "ante": "He is ",
+     "dep": " a newspaper.",
+     "cer": "reading",
+     "out": [
+      "eating",
+      "washing"
      ],
-     "fora": "redacao",
-     "nomeFora": "IN THE NEWSROOM",
-     "d1": "Pergunte de cada foto: as palavras estão <b>entrando</b> pelos olhos dessa pessoa ou <b>saindo</b> pela mão dela?",
-     "d2": "Em três fotos alguém está com os olhos em algo escrito: jornal, livro, cardápio. Numa delas a mão está com a caneta.",
-     "d3": "A de fora é a IN THE NEWSROOM: nas outras três alguém está lendo (READING) e nesta alguém está escrevendo (WRITING).",
-     "razoes": [
-      {
-       "t": "As outras três estão lendo; nesta a pessoa está escrevendo.",
-       "ok": 1
-      },
-      {
-       "t": "Porque nesta foto a pessoa está em pé.",
-       "ok": 0
-      },
-      {
-       "t": "Porque nesta foto aparece uma caneta.",
-       "ok": 0
-      },
-      {
-       "t": "Porque esta foto é a última da fila.",
-       "ok": 0
-      }
+     "dic": "Ele segura um jornal e olha para ele."
+    },
+    {
+     "img": "rn_dancing",
+     "ante": "She is ",
+     "dep": ".",
+     "cer": "dancing",
+     "out": [
+      "sleeping",
+      "cooking"
      ],
-     "p1": "O que você tocou até pode ser verdade nessa foto. Mas olhe as OUTRAS três: o que as mãos delas estão fazendo?",
-     "p2": "Uma pessoa em pé também pode estar lendo, e um leitor também pode ter caneta no bolso. O que junta as três é a AÇÃO, não a posição do corpo.",
-     "p3": "Nas três primeiras alguém está READING. Na quarta alguém está WRITING — por isso ela é a de fora.",
-     "regra": "três estão lendo; uma está escrevendo"
+     "dic": "Ela se mexe com a m&#250;sica."
+    },
+    {
+     "img": "rn_painting",
+     "ante": "He is ",
+     "dep": " the wall.",
+     "cer": "painting",
+     "out": [
+      "reading",
+      "driving"
+     ],
+     "dic": "Ele tem um rolo de tinta na m&#227;o."
+    },
+    {
+     "img": "rn_washing",
+     "ante": "She is ",
+     "dep": " her hands.",
+     "cer": "washing",
+     "out": [
+      "drawing",
+      "riding"
+     ],
+     "dic": "Tem &#225;gua e sab&#227;o na pia."
     }
-   ]
+   ],
+   "dadosExtra": {
+    "ENUN": "Toque no peda&#231;o que <b>falta</b> na legenda.",
+    "DEPOIS": "Leia a legenda inteira antes de escolher.",
+    "FECHO": "Every caption is finished!"
+   }
   },
   {
    "id": "f04",
-   "mec": "caca-palavras",
-   "selo": "AS PALAVRAS DO FLAGRA",
-   "enunciado": "O arquivo do jornal guarda as ações que mais aparecem no plantão. Ache as cinco escondidas na grade — elas podem estar deitadas, em pé ou na diagonal.",
-   "dica": "Procure primeiro o começo de cada palavra e depois corra o dedo para o lado, para baixo e na diagonal.",
-   "conceito": "objetivo1",
-   "dados": [
-    "RUNNING",
-    "EATING",
-    "READING",
-    "DANCING",
-    "WAITING"
-   ],
-   "dadosExtra": {
-    "CORP": [
-     "p1",
-     "p2",
-     "p3",
-     "p4",
-     "p5"
-    ],
-    "PALDEF": {
-     "RUNNING": "A pessoa está correndo: o corpo inclinado e um pé fora do chão.",
-     "EATING": "A pessoa está comendo: o alimento indo para a boca.",
-     "READING": "A pessoa está lendo: os olhos correndo pela linha escrita.",
-     "DANCING": "A pessoa está dançando: o corpo seguindo a música.",
-     "WAITING": "A pessoa está esperando: parada no ponto, olhando a rua."
-    },
-    "LETRAS": "ABCDEFGHIKLMNOPRSTUVWY",
-    "MODO": "definicoes",
-    "TITULO": "AS PALAVRAS DO FLAGRA"
-   }
-  },
-  {
-   "id": "f08",
-   "mec": "raios-x",
-   "selo": "THE BLURRED SHOT",
-   "enunciado": "A foto do drone saiu desfocada. Passe a janela, ache a pessoa e diga o que ela ESTÁ FAZENDO agora.",
-   "dica": "Procure as mãos e os pés: são eles que contam a ação.",
-   "conceito": "objetivo1",
-   "dados": [
-    {
-     "k": "rx1",
-     "baixo": "rn_cook",
-     "p": "What is the person doing right now?",
-     "c": "She is cooking.",
-     "e": [
-      "She cooks every day.",
-      "She cooked yesterday."
-     ],
-     "d": [
-      "Move the window over the middle of the photo.",
-      "Look at the hands: they are holding something over the stove.",
-      "It is happening NOW: 'She is cooking.'"
-     ],
-     "borrado": true
-    },
-    {
-     "k": "rx2",
-     "baixo": "rn_read_news",
-     "p": "And in this one?",
-     "c": "He is reading a newspaper.",
-     "e": [
-      "He reads a newspaper.",
-      "He is going to read."
-     ],
-     "d": [
-      "Sweep the window from left to right.",
-      "The paper is open in his hands, right now.",
-      "It is happening NOW: 'He is reading a newspaper.'"
-     ],
-     "borrado": true
-    }
-   ],
-   "dadosExtra": {
-    "RXTXT": {
-     "selo": "X-RAY THE SHOT",
-     "balao": "Move the <b>window</b> over the blurred photo and find the action.",
-     "hint": "Drag with your finger or the mouse. You can also tap anywhere.",
-     "pergunta": "What is happening RIGHT NOW?",
-     "fecho": "You found the action in every shot."
-    }
-   }
-  },
-  {
-   "id": "f05",
    "mec": "montar-frase",
-   "selo": "MONTE A LEGENDA",
-   "enunciado": "As palavras da legenda caíram fora de ordem na mesa da edição. Monte a legenda de cada foto, peça por peça.",
-   "dica": "Comece por quem aparece na foto. Depois vem a palavrinha que ajuda, e só então a ação.",
-   "conceito": "objetivo2",
+   "selo": "BUILD THE SENTENCE",
+   "enunciado": "Toque nas palavras na <b>ordem certa</b>: quem + be + verbo-ing.",
+   "dica": "Comece por <b>quem</b> faz a a&#231;&#227;o, depois am/is/are, depois o verbo-ing.",
+   "conceito": "objetivo1",
    "dados": [
     {
+     "img": "rn_cooking",
      "w": [
       "She",
       "is",
-      "dancing",
-      "in the square"
+      "cooking"
      ],
      "c": [
-      "quem",
-      "aju",
-      "acao",
-      "onde"
+      "suj",
+      "be",
+      "ving"
      ],
-     "apoio": true,
-     "img": "rn_dancers"
+     "apoio": true
     },
     {
+     "img": "rn_playing_football",
      "w": [
-      "The cook",
-      "is",
-      "frying",
-      "at the stand"
-     ],
-     "c": [
-      "quem",
-      "aju",
-      "acao",
-      "onde"
-     ],
-     "apoio": false,
-     "img": "rn_cook"
-    },
-    {
-     "w": [
-      "Two friends",
+      "They",
       "are",
-      "talking",
-      "on the sidewalk"
+      "playing",
+      "football"
      ],
      "c": [
-      "quem",
-      "aju",
-      "acao",
-      "onde"
+      "suj",
+      "be",
+      "ving",
+      "comp"
      ],
-     "apoio": false,
-     "img": "rn_two_friends"
+     "apoio": false
+    },
+    {
+     "img": "rn_reading",
+     "w": [
+      "He",
+      "is",
+      "reading",
+      "a newspaper"
+     ],
+     "c": [
+      "suj",
+      "be",
+      "ving",
+      "comp"
+     ],
+     "apoio": false
     }
    ],
    "dadosExtra": {
     "CLA": {
-     "quem": {
+     "suj": {
       "r": "quem",
-      "d": "<b>quem</b> aparece na foto"
+      "d": "<b>quem</b> faz: I, you, he, she, it, we, they"
      },
-     "aju": {
-      "r": "ajudante",
-      "d": "a palavrinha <b>is</b> ou <b>are</b>, que vem antes da ação"
+     "be": {
+      "r": "am/is/are",
+      "d": "o verbo <b>be</b>: am, is ou are"
      },
-     "acao": {
-      "r": "ação -ING",
-      "d": "a <b>ação</b>, sempre terminada em <b>-ing</b>"
+     "ving": {
+      "r": "a&#231;&#227;o -ing",
+      "d": "o verbo com <b>-ing</b>"
      },
-     "onde": {
-      "r": "onde",
-      "d": "<b>onde</b> a cena está acontecendo"
+     "comp": {
+      "r": "o resto",
+      "d": "o <b>complemento</b> da frase"
      }
-    }
+    },
+    "FORMAS": [
+     "suj",
+     "be",
+     "ving",
+     "comp"
+    ]
    }
   },
   {
-   "id": "f06",
-   "mec": "completar",
-   "selo": "A PEÇA QUE FALTA",
-   "enunciado": "Na hora de imprimir, uma peça caiu de cada legenda. Toque na peça que fecha a frase.",
-   "dica": "Compare as três peças e veja qual delas termina em <b>-ing</b>.",
-   "conceito": "objetivo2",
-   "dados": [
-    {
-     "ante": "He is ",
-     "dep": " a sandwich.",
-     "cer": "eating",
-     "out": [
-      "eat",
-      "eats"
-     ],
-     "dic": "A legenda conta o que está acontecendo agora, e a ação do agora sempre termina em <b>-ing</b>.",
-     "img": "rn_boy_eating"
-    },
-    {
-     "ante": "They are ",
-     "dep": " football.",
-     "cer": "playing",
-     "out": [
-      "play",
-      "plays"
-     ],
-     "dic": "Só uma destas três peças tem o <b>-ing</b> no fim.",
-     "img": "rn_kids_football"
-    },
-    {
-     "ante": "The girl is ",
-     "dep": " a book.",
-     "cer": "reading",
-     "out": [
-      "read",
-      "reads"
-     ],
-     "dic": "Leia a legenda inteira em voz baixa: falta a ação, e ela vem com <b>-ing</b>.",
-     "img": "rn_read_book"
-    }
-   ],
-   "dadosExtra": {
-    "ENUN": "Toque na peça que completa a legenda.",
-    "DEPOIS": "Leia a legenda inteira antes de escolher.",
-    "FECHO": "Todas as legendas fecharam!"
-   }
-  },
-  {
-   "id": "f07",
+   "id": "f05",
    "mec": "memoria",
-   "selo": "O PAR DA LEGENDA",
-   "enunciado": "O arquivo do jornal guarda cada forma em inglês ao lado do que ela conta em português. Vire as cartas e encontre os pares.",
-   "dica": "Vire uma carta, leia em voz baixa e procure a carta que diz a mesma coisa.",
+   "selo": "MATCH THE PHOTO",
+   "enunciado": "Ache o par: a <b>foto</b> e a <b>legenda</b> certa.",
+   "dica": "Vire duas cartas. A foto combina com a frase que a descreve.",
    "conceito": "objetivo2",
    "dados": [
     {
      "k": "cook",
-     "pal": "IS COOKING",
-     "sen": "está cozinhando agora"
+     "pal": "COOKING",
+     "img": "rn_cooking",
+     "sen": "She is cooking."
     },
     {
-     "k": "ride",
-     "pal": "IS RIDING",
-     "sen": "está pedalando agora"
+     "k": "bike",
+     "pal": "RIDING",
+     "img": "rn_riding",
+     "sen": "She is riding a bike."
     },
     {
-     "k": "talk",
-     "pal": "ARE TALKING",
-     "sen": "estão conversando agora"
+     "k": "foot",
+     "pal": "PLAYING",
+     "img": "rn_playing_football",
+     "sen": "They are playing football."
     },
     {
-     "k": "wait",
-     "pal": "IS WAITING",
-     "sen": "está esperando agora"
+     "k": "tv",
+     "pal": "WATCHING",
+     "img": "rn_watching",
+     "sen": "He is watching TV."
     }
    ]
   },
   {
-   "id": "f09",
-   "mec": "escolher",
-   "selo": "A LEGENDA COMPLETA",
-   "enunciado": "O editor recusou três legendas de cada foto porque falta peça nelas. Escolha a que está inteira.",
-   "dica": "Confira nas quatro opções se existem AS DUAS peças: o ajudante e a ação com -ing.",
+   "id": "f06",
+   "mec": "conserte-o-erro",
+   "selo": "FIX THE CAPTION",
+   "enunciado": "Uma palavra da legenda est&#225; <b>errada</b>. Ache e conserte.",
+   "dica": "Confira o <b>be</b> (am/is/are) e o <b>-ing</b> do verbo.",
    "conceito": "objetivo2",
    "dados": [
     {
-     "p": "O drone flagrou uma moça pedalando na ciclovia. Qual legenda tem as <b>duas peças</b> do agora?",
-     "c": "She is riding a bike.",
-     "e": [
-      "She riding a bike.",
-      "She is ride a bike.",
-      "She ride a bike."
+     "img": "",
+     "selo": "FLAGRA 1",
+     "cab": "IS OR ARE?",
+     "bal": "Uma palavra est&#225; errada. Ache e conserte.",
+     "pecas": [
+      "She",
+      "are",
+      "cooking"
      ],
-     "d": [
-      "Toda legenda do agora traz duas peças: o ajudante e a ação com -ing.",
-      "Procure a opção que tem AS DUAS ao mesmo tempo: um <b>is</b> e um verbo terminado em <b>-ing</b>.",
-      "É <b>She is riding a bike.</b> — tem o is e tem o riding. Ela está acesa aí embaixo: toque nela para seguir."
+     "erro": 1,
+     "certa": "is",
+     "ops": [
+      "is",
+      "am",
+      "be"
      ],
-     "img": "rn_cyclist"
+     "por": "'She' &#233; uma pessoa: usa <b>is</b>, n&#227;o 'are'.",
+     "dicas": [
+      "Leia a frase inteira baixinho.",
+      "Quem &#233; o sujeito? <b>She</b>.",
+      "Era a 2&#170; palavra. Marquei para voc&#234;."
+     ],
+     "dicas2": [
+      "'She' pede <b>is</b>.",
+      "Uma pessoa (he/she/it) &#8594; is.",
+      "Era o <b>is</b>: She is cooking."
+     ]
     },
     {
-     "p": "Agora são dois amigos conversando na calçada. Qual legenda está inteira?",
-     "c": "They are talking on the sidewalk.",
-     "e": [
-      "They talking on the sidewalk.",
-      "They are talk on the sidewalk.",
-      "They talk on the sidewalk."
+     "selo": "FLAGRA 2",
+     "cab": "WHERE IS THE -ING?",
+     "bal": "Falta o -ing no verbo. Ache a palavra errada.",
+     "pecas": [
+      "They",
+      "are",
+      "play"
      ],
-     "d": [
-      "De novo: procure o ajudante e a ação com -ing na mesma opção.",
-      "Com duas pessoas o ajudante é <b>are</b>. E a ação continua terminando em <b>-ing</b>.",
-      "É <b>They are talking on the sidewalk.</b> — ela está acesa aí embaixo: toque nela para seguir."
+     "erro": 2,
+     "certa": "playing",
+     "ops": [
+      "playing",
+      "plays",
+      "played"
      ],
-     "img": "rn_two_friends"
+     "por": "No Present Continuous o verbo termina em <b>-ing</b>.",
+     "dicas": [
+      "O be j&#225; est&#225; certo (are). Olhe o verbo.",
+      "A a&#231;&#227;o est&#225; acontecendo agora: precisa de -ing.",
+      "Era a 3&#170; palavra. Marquei para voc&#234;."
+     ],
+     "dicas2": [
+      "play + ing = <b>playing</b>.",
+      "Agora, acontecendo: -ing.",
+      "Era <b>playing</b>: They are playing."
+     ]
     },
     {
-     "p": "O cozinheiro está fritando pastel na banca. Qual legenda está inteira?",
-     "c": "The cook is frying pastel.",
-     "e": [
-      "The cook frying pastel.",
-      "The cook is fry pastel.",
-      "The cook fries pastel."
+     "selo": "FLAGRA 3",
+     "cab": "AM, IS OR ARE?",
+     "bal": "Ache o be errado e conserte.",
+     "pecas": [
+      "I",
+      "is",
+      "reading"
      ],
-     "d": [
-      "Uma delas parece certa e não é: ela conta o que ele faz sempre, não o que está acontecendo agora.",
-      "A legenda do flagra precisa do <b>is</b> e do verbo em <b>-ing</b> juntos.",
-      "É <b>The cook is frying pastel.</b> — ela está acesa aí embaixo: toque nela para seguir."
+     "erro": 1,
+     "certa": "am",
+     "ops": [
+      "am",
+      "are",
+      "is"
      ],
-     "img": "rn_cook"
+     "por": "'I' sempre usa <b>am</b>.",
+     "dicas": [
+      "Quem &#233; o sujeito? <b>I</b>.",
+      "S&#243; o I usa um be especial.",
+      "Era a 2&#170; palavra. Marquei para voc&#234;."
+     ],
+     "dicas2": [
+      "I + <b>am</b>.",
+      "N&#227;o &#233; is nem are; &#233; am.",
+      "Era <b>am</b>: I am reading."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f07",
+   "mec": "classificar",
+   "selo": "AM / IS / ARE",
+   "enunciado": "Cada sujeito usa um verbo <b>be</b>. Toque na ficha e depois na gaveta certa.",
+   "dica": "I &#8594; am. He, she, it &#8594; is. You, we, they &#8594; are.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "k": "am",
+     "n": "am",
+     "img": ""
+    },
+    {
+     "k": "is",
+     "n": "is",
+     "img": ""
+    },
+    {
+     "k": "are",
+     "n": "are",
+     "img": ""
     }
    ],
    "dadosExtra": {
-    "TITULO": "AS DUAS PEÇAS",
-    "FECHO": "Você já sabe do que a legenda do agora é feita!"
+    "ENUN": "Cada sujeito vai na gaveta do seu <b>be</b>. Toque na ficha e depois na gaveta.",
+    "DICAS": [
+     "S&#243; o <b>I</b> usa <b>am</b>.",
+     "Uma pessoa/coisa (he, she, it, the dog) usa <b>is</b>.",
+     "Mais de um (you, we, they, the kids) usa <b>are</b>."
+    ],
+    "FICHAS": [
+     {
+      "t": "I",
+      "alvo": "am",
+      "img": ""
+     },
+     {
+      "t": "He",
+      "alvo": "is",
+      "img": ""
+     },
+     {
+      "t": "She",
+      "alvo": "is",
+      "img": ""
+     },
+     {
+      "t": "The dog",
+      "alvo": "is",
+      "img": ""
+     },
+     {
+      "t": "You",
+      "alvo": "are",
+      "img": ""
+     },
+     {
+      "t": "We",
+      "alvo": "are",
+      "img": ""
+     },
+     {
+      "t": "They",
+      "alvo": "are",
+      "img": ""
+     },
+     {
+      "t": "The kids",
+      "alvo": "are",
+      "img": ""
+     }
+    ]
    }
   },
   {
-   "id": "f10",
-   "mec": "conserte-o-erro",
-   "selo": "CONSERTE A LEGENDA",
-   "enunciado": "Três legendas saíram do revisor com uma palavra trocada. Ache a palavra errada e conserte antes de imprimir.",
-   "dica": "Leia a legenda inteira e conte quantas pessoas ela fala.",
+   "id": "f08",
+   "mec": "digitar",
+   "selo": "TYPE THE ACTION",
+   "enunciado": "Monte a palavra que diz o que a pessoa est&#225; fazendo.",
+   "dica": "Diga o verbo devagar e escreva letra por letra.",
+   "conceito": "objetivo2",
+   "dados": [
+    {
+     "img": "rn_playing_guitar",
+     "palavra": "PLAYING",
+     "pista": "He is ___ the guitar.",
+     "dic": "to play &#8594; play + ing."
+    },
+    {
+     "img": "rn_listening",
+     "palavra": "LISTENING",
+     "pista": "She is ___ to music.",
+     "dic": "to listen &#8594; listen + ing."
+    },
+    {
+     "img": "rn_carrying",
+     "palavra": "CARRYING",
+     "pista": "He is ___ a heavy box.",
+     "dic": "to carry &#8594; carry + ing."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Monte a palavra, letra por letra.",
+    "FECHO": "You typed every action!",
+    "LETRAS": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+   }
+  },
+  {
+   "id": "f09",
+   "mec": "escrever-legenda",
+   "selo": "WRITE THE CAPTION",
+   "enunciado": "Escreva a legenda da foto: <b>quem + is/are + verbo-ing</b>.",
+   "dica": "Use os apoios embaixo se precisar. Comece pelo <b>quem</b>.",
    "conceito": "objetivo3",
    "dados": [
     {
-     "selo": "A LEGENDA DA PRAÇA",
-     "cab": "UMA PESSOA SÓ",
-     "bal": "Esta legenda saiu com uma palavra trocada. Ache e conserte.",
-     "pecas": [
-      "THE",
-      "DANCER",
-      "ARE",
-      "DANCING"
+     "img": "rn_cooking",
+     "sel": "FOTO 1 DE 3",
+     "ped": "O que ela est&#225; fazendo?",
+     "apoio": [
+      "She",
+      "is",
+      "cooking",
+      "in the kitchen"
      ],
-     "erro": 2,
-     "certa": "IS",
-     "ops": [
-      "IS",
-      "AM",
-      "BE"
-     ],
-     "por": "THE DANCER é uma pessoa só. Com uma pessoa só o ajudante é <b>is</b>.",
-     "dicas": [
-      "Conte, na legenda, quantas pessoas ela está falando.",
-      "Uma das quatro palavras é o ajudante. Veja se ele combina com o número de pessoas.",
-      "Era esta aqui. Eu marquei para você: agora escolha a certa."
-     ],
-     "dicas2": [
-      "Com he, she, it — uma pessoa só — o ajudante é <b>is</b>.",
-      "Não é am, que serve só para <b>I</b>, nem be, que não entra na legenda. A certa está piscando.",
-      "Era o <b>IS</b>. Eu troquei para você ler: THE DANCER IS DANCING."
-     ],
-     "img": "rn_dancers"
+     "comeco": "She is ",
+     "exemplo": "she is cooking in the kitchen"
     },
     {
-     "selo": "A LEGENDA DA CALÇADA",
-     "cab": "MAIS DE UMA PESSOA",
-     "bal": "Nesta aqui também trocaram uma palavra. Ache e conserte.",
-     "pecas": [
-      "TWO",
-      "FRIENDS",
-      "IS",
-      "TALKING"
+     "img": "rn_riding",
+     "sel": "FOTO 2 DE 3",
+     "ped": "O que ela est&#225; fazendo?",
+     "apoio": [
+      "She",
+      "is",
+      "riding",
+      "a bike"
      ],
-     "erro": 2,
-     "certa": "ARE",
-     "ops": [
-      "ARE",
-      "AM",
-      "IS"
-     ],
-     "por": "TWO FRIENDS são duas pessoas. Com mais de uma o ajudante é <b>are</b>.",
-     "dicas": [
-      "Comece contando: quantas pessoas aparecem nesta legenda?",
-      "O erro está no ajudante de novo: ele não combina com duas pessoas.",
-      "Era esta aqui. Eu marquei para você: agora escolha a certa."
-     ],
-     "dicas2": [
-      "Duas ou mais pessoas pedem <b>are</b>.",
-      "Não é is, que é de uma pessoa só, nem am, que é só do <b>I</b>. A certa está piscando.",
-      "Era o <b>ARE</b>. Eu troquei para você ler: TWO FRIENDS ARE TALKING."
-     ],
-     "img": "rn_two_friends"
+     "comeco": "She is ",
+     "exemplo": "she is riding a bike"
     },
     {
-     "selo": "A LEGENDA DO REPÓRTER",
-     "cab": "QUANDO SOU EU",
-     "bal": "A última legenda é sobre você mesmo. Ache a palavra errada e conserte.",
-     "pecas": [
-      "I",
-      "IS",
-      "TAKING",
-      "PHOTOS"
+     "img": "rn_playing_football",
+     "sel": "FOTO 3 DE 3",
+     "ped": "O que eles est&#227;o fazendo?",
+     "apoio": [
+      "They",
+      "are",
+      "playing",
+      "football"
      ],
-     "erro": 1,
-     "certa": "AM",
-     "ops": [
-      "AM",
-      "ARE",
-      "IS"
-     ],
-     "por": "Quando quem fala é <b>I</b>, o ajudante é <b>am</b>. É o único lugar onde o am aparece.",
-     "dicas": [
-      "Olhe a primeira palavra da legenda: quem está falando aqui?",
-      "O ajudante desta legenda não é o mesmo das outras duas, porque quem fala é o próprio repórter.",
-      "Era esta aqui. Eu marquei para você: agora escolha a certa."
-     ],
-     "dicas2": [
-      "O <b>I</b> tem um ajudante só dele.",
-      "Não é is nem are: os dois são das outras pessoas. A certa está piscando.",
-      "Era o <b>AM</b>. Eu troquei para você ler: I AM TAKING PHOTOS."
-     ],
-     "img": "rn_photographer"
+     "comeco": "They are ",
+     "exemplo": "they are playing football"
     }
    ]
   },
   {
    "id": "f11",
-   "mec": "quem-sou-eu",
-   "selo": "QUEM ESTÁ FALANDO?",
-   "enunciado": "O drone gravou três pessoas contando o que estão fazendo, mas cortou o rosto delas. Leia as pistas e descubra quem é.",
-   "dica": "Todas as pistas começam com <b>I am</b>: quem fala está contando a própria ação do momento.",
+   "mec": "intruso",
+   "selo": "THE ODD SENTENCE",
+   "enunciado": "Tr&#234;s frases est&#227;o no Present Continuous. Ache a que <b>n&#227;o est&#225;</b>.",
+   "dica": "Present Continuous = be (am/is/are) + verbo-ing.",
    "conceito": "objetivo3",
    "dados": [
     {
-     "resp": "THE PHOTOGRAPHER",
-     "pistas": [
-      "I am carrying a heavy bag on my shoulder.",
-      "I am looking through a small glass.",
-      "I am pressing a button and saying: smile!"
+     "selo": "ROUND 1",
+     "tipo": "texto",
+     "enun": "Tr&#234;s frases est&#227;o no Present Continuous. <b>Qual n&#227;o est&#225;?</b>",
+     "itens": [
+      {
+       "k": "a",
+       "n": "She is cooking.",
+       "img": ""
+      },
+      {
+       "k": "b",
+       "n": "They are playing.",
+       "img": ""
+      },
+      {
+       "k": "c",
+       "n": "He reads a book.",
+       "img": ""
+      },
+      {
+       "k": "d",
+       "n": "I am running.",
+       "img": ""
+      }
      ],
-     "outros": [
-      "THE COOK",
-      "THE CYCLIST",
-      "THE DANCER"
-     ]
+     "fora": "c",
+     "nomeFora": "He reads a book.",
+     "d1": "Procure o <b>be</b> (am/is/are) + verbo com <b>-ing</b>.",
+     "d2": "Tr&#234;s t&#234;m be + -ing. Uma n&#227;o tem.",
+     "d3": "'He reads a book' n&#227;o tem be nem -ing &#8212; &#233; Simple Present.",
+     "razoes": [
+      {
+       "t": "N&#227;o tem be + verbo-ing.",
+       "ok": 1
+      },
+      {
+       "t": "Porque &#233; a frase mais curta.",
+       "ok": 0
+      },
+      {
+       "t": "Porque fala de outra pessoa.",
+       "ok": 0
+      },
+      {
+       "t": "Porque come&#231;a diferente.",
+       "ok": 0
+      }
+     ],
+     "p1": "Olhe a ESTRUTURA da frase, n&#227;o o assunto.",
+     "p2": "Todas as outras t&#234;m be + verbo-ing.",
+     "p3": "'He reads a book' n&#227;o tem be nem -ing &#8212; &#233; Simple Present.",
+     "regra": "present continuous tem be + verbo-ing"
     },
     {
-     "resp": "THE COOK",
-     "pistas": [
-      "I am wearing a white apron.",
-      "I am standing next to a very hot pan.",
-      "I am frying pastel for the whole square."
+     "selo": "ROUND 2",
+     "tipo": "texto",
+     "enun": "Tr&#234;s frases est&#227;o no Present Continuous. <b>Qual n&#227;o est&#225;?</b>",
+     "itens": [
+      {
+       "k": "a",
+       "n": "We are singing.",
+       "img": ""
+      },
+      {
+       "k": "b",
+       "n": "She likes pizza.",
+       "img": ""
+      },
+      {
+       "k": "c",
+       "n": "He is dancing.",
+       "img": ""
+      },
+      {
+       "k": "d",
+       "n": "They are swimming.",
+       "img": ""
+      }
      ],
-     "outros": [
-      "THE READER",
-      "THE PHOTOGRAPHER",
-      "THE RUNNER"
-     ]
+     "fora": "b",
+     "nomeFora": "She likes pizza.",
+     "d1": "Procure o <b>be</b> (am/is/are) + verbo com <b>-ing</b>.",
+     "d2": "Tr&#234;s t&#234;m be + -ing. Uma n&#227;o tem.",
+     "d3": "'She likes pizza' n&#227;o tem be nem -ing &#8212; &#233; Simple Present.",
+     "razoes": [
+      {
+       "t": "N&#227;o tem be + verbo-ing.",
+       "ok": 1
+      },
+      {
+       "t": "Porque &#233; a frase mais curta.",
+       "ok": 0
+      },
+      {
+       "t": "Porque fala de outra pessoa.",
+       "ok": 0
+      },
+      {
+       "t": "Porque come&#231;a diferente.",
+       "ok": 0
+      }
+     ],
+     "p1": "Olhe a ESTRUTURA da frase, n&#227;o o assunto.",
+     "p2": "Todas as outras t&#234;m be + verbo-ing.",
+     "p3": "'She likes pizza' n&#227;o tem be nem -ing &#8212; &#233; Simple Present.",
+     "regra": "present continuous tem be + verbo-ing"
     },
     {
-     "resp": "THE CYCLIST",
-     "pistas": [
-      "I am wearing a helmet on my head.",
-      "I am holding two handlebars with my hands.",
-      "I am moving fast on two wheels."
+     "selo": "ROUND 3",
+     "tipo": "texto",
+     "enun": "Tr&#234;s frases est&#227;o no Present Continuous. <b>Qual n&#227;o est&#225;?</b>",
+     "itens": [
+      {
+       "k": "a",
+       "n": "I am writing.",
+       "img": ""
+      },
+      {
+       "k": "b",
+       "n": "You are listening.",
+       "img": ""
+      },
+      {
+       "k": "c",
+       "n": "It is raining.",
+       "img": ""
+      },
+      {
+       "k": "d",
+       "n": "We play every day.",
+       "img": ""
+      }
      ],
-     "outros": [
-      "THE DANCER",
-      "THE COOK",
-      "THE WAITER"
-     ]
+     "fora": "d",
+     "nomeFora": "We play every day.",
+     "d1": "Procure o <b>be</b> (am/is/are) + verbo com <b>-ing</b>.",
+     "d2": "Tr&#234;s t&#234;m be + -ing. Uma n&#227;o tem.",
+     "d3": "'We play every day' fala de rotina (Simple Present), n&#227;o de agora.",
+     "razoes": [
+      {
+       "t": "N&#227;o tem be + verbo-ing.",
+       "ok": 1
+      },
+      {
+       "t": "Porque &#233; a frase mais curta.",
+       "ok": 0
+      },
+      {
+       "t": "Porque fala de outra pessoa.",
+       "ok": 0
+      },
+      {
+       "t": "Porque come&#231;a diferente.",
+       "ok": 0
+      }
+     ],
+     "p1": "Olhe a ESTRUTURA da frase, n&#227;o o assunto.",
+     "p2": "Todas as outras t&#234;m be + verbo-ing.",
+     "p3": "'We play every day' fala de rotina (Simple Present), n&#227;o de agora.",
+     "regra": "present continuous tem be + verbo-ing"
     }
    ]
   },
   {
    "id": "f12",
-   "mec": "classificar",
-   "selo": "IS OU ARE?",
-   "enunciado": "O ajudante da legenda depende de quantas pessoas há na foto. Olhe cada foto, conte as pessoas e ponha na bandeja certa.",
-   "dica": "Antes de decidir, conte com o dedo quantas pessoas aparecem na foto.",
+   "mec": "relampago",
+   "selo": "SPEED ROUND",
+   "enunciado": "R&#225;pido! Escolha o <b>be</b> certo (am, is ou are).",
+   "dica": "I &#8594; am. He/she/it &#8594; is. You/we/they &#8594; are.",
    "conceito": "objetivo3",
    "dados": [
     {
-     "k": "is",
-     "n": "IS<br>(uma pessoa só)"
+     "p": "She ___ dancing.",
+     "c": "is",
+     "e": [
+      "are",
+      "am"
+     ]
     },
     {
-     "k": "are",
-     "n": "ARE<br>(duas ou mais)"
+     "p": "They ___ running.",
+     "c": "are",
+     "e": [
+      "is",
+      "am"
+     ]
+    },
+    {
+     "p": "I ___ reading.",
+     "c": "am",
+     "e": [
+      "is",
+      "are"
+     ]
+    },
+    {
+     "p": "He ___ sleeping.",
+     "c": "is",
+     "e": [
+      "are",
+      "am"
+     ]
+    },
+    {
+     "p": "We ___ singing.",
+     "c": "are",
+     "e": [
+      "is",
+      "am"
+     ]
+    },
+    {
+     "p": "The dog ___ eating.",
+     "c": "is",
+     "e": [
+      "are",
+      "am"
+     ]
+    },
+    {
+     "p": "You ___ writing.",
+     "c": "are",
+     "e": [
+      "is",
+      "am"
+     ]
+    },
+    {
+     "p": "It ___ raining.",
+     "c": "is",
+     "e": [
+      "are",
+      "am"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aquecimento",
+   "mec": "ouvir-achar",
+   "selo": "LISTEN AND FIND",
+   "enunciado": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
+   "dica": "Aperte <b>Ouvir</b> e repita baixinho. Procure a a&#231;&#227;o.",
+   "conceito": "objetivo3",
+   "dados": [
+    {
+     "selo": "LISTEN 1",
+     "alvo": "cook",
+     "opcoes": [
+      "cook",
+      "bike",
+      "tv",
+      "foot"
+     ],
+     "rotulo": "THE SENTENCE IS",
+     "escrito": "She is cooking.",
+     "fala": "She is cooking.",
+     "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
+     "hint": "Sem som? A frase est&#225; escrita a&#237; em cima.",
+     "msg": "Yes! She <b>is cooking</b>.",
+     "dicas": [
+      "Aperte Ouvir e repita baixinho.",
+      "'cooking' = cozinhando: olhe a panela.",
+      "Esta &#233;: ela est&#225; na cozinha."
+     ]
+    },
+    {
+     "selo": "LISTEN 2",
+     "alvo": "foot",
+     "opcoes": [
+      "foot",
+      "danca",
+      "cook",
+      "bike"
+     ],
+     "rotulo": "THE SENTENCE IS",
+     "escrito": "They are playing football.",
+     "fala": "They are playing football.",
+     "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
+     "hint": "Sem som? A frase est&#225; escrita a&#237; em cima.",
+     "msg": "Yes! They <b>are playing football</b>.",
+     "dicas": [
+      "Aperte Ouvir de novo.",
+      "'football' = a bola no campo.",
+      "Esta &#233;: dois meninos e a bola."
+     ]
+    },
+    {
+     "selo": "LISTEN 3",
+     "alvo": "tv",
+     "opcoes": [
+      "tv",
+      "jornal",
+      "bike",
+      "foot"
+     ],
+     "rotulo": "THE SENTENCE IS",
+     "escrito": "He is watching TV.",
+     "fala": "He is watching TV.",
+     "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
+     "hint": "Sem som? A frase est&#225; escrita a&#237; em cima.",
+     "msg": "Yes! He <b>is watching TV</b>.",
+     "dicas": [
+      "Aperte Ouvir e escute at&#233; o fim.",
+      "'watching TV' = olhando a televis&#227;o.",
+      "Esta &#233;: o menino no sof&#225; com a TV."
+     ]
     }
    ],
    "dadosExtra": {
-    "FICHAS": [
-     {
-      "t": "THE PHOTOGRAPHER",
-      "alvo": "is",
-      "img": "rn_photographer"
+    "CATALOGO": {
+     "cook": {
+      "nome": "She is cooking.",
+      "voz": "She is cooking.",
+      "img": "rn_cooking"
      },
-     {
-      "t": "THE COOK",
-      "alvo": "is",
-      "img": "rn_cook"
+     "bike": {
+      "nome": "She is riding a bike.",
+      "voz": "She is riding a bike.",
+      "img": "rn_riding"
      },
-     {
-      "t": "THE CYCLIST",
-      "alvo": "is",
-      "img": "rn_cyclist"
+     "tv": {
+      "nome": "He is watching TV.",
+      "voz": "He is watching TV.",
+      "img": "rn_watching"
      },
-     {
-      "t": "TWO FRIENDS",
-      "alvo": "are",
-      "img": "rn_two_friends"
+     "foot": {
+      "nome": "They are playing football.",
+      "voz": "They are playing football.",
+      "img": "rn_playing_football"
      },
-     {
-      "t": "THE KIDS",
-      "alvo": "are",
-      "img": "rn_kids_football"
+     "danca": {
+      "nome": "She is dancing.",
+      "voz": "She is dancing.",
+      "img": "rn_dancing"
      },
-     {
-      "t": "THE DANCERS",
-      "alvo": "are",
-      "img": "rn_dancers"
+     "jornal": {
+      "nome": "He is reading a newspaper.",
+      "voz": "He is reading a newspaper.",
+      "img": "rn_reading"
      }
-    ],
-    "DICAS": [
-     "Conte as pessoas da foto antes de olhar as bandejas.",
-     "Uma pessoa só pede <b>is</b>: the cook is frying. Duas ou mais pedem <b>are</b>: two friends are talking.",
-     "Olhe a bandeja com a borda amarela: é ali que esta foto mora."
-    ],
-    "ENUN": "Toque na foto e depois na bandeja do ajudante que ela pede."
+    },
+    "TEXTOS": {
+     "ouvir": "HEAR IT",
+     "ouvirDica": "Pode apertar quantas vezes quiser.",
+     "ouvirLeitor": "Ouvir a frase de novo"
+    }
    }
   },
   {
    "id": "f13",
-   "mec": "escolher",
-   "selo": "A LEGENDA DO PLANTÃO",
-   "enunciado": "O plantão pede pressa e o editor mandou três legendas de cada foto. Escolha a que tem o ajudante certo.",
-   "dica": "Antes de escolher, veja de quantas pessoas a legenda fala.",
-   "conceito": "objetivo3",
+   "mec": "quem-sou-eu",
+   "selo": "WHAT AM I DOING?",
+   "enunciado": "Leia as pistas e descubra <b>o que a pessoa est&#225; fazendo</b>.",
+   "dica": "Cada pista mostra um peda&#231;o da cena. Junte tudo.",
+   "conceito": "objetivo4",
    "dados": [
     {
-     "p": "O drone flagrou <b>uma</b> criança pulando corda na quadra. Qual legenda está certa?",
-     "c": "The child is jumping rope.",
-     "e": [
-      "The child are jumping rope.",
-      "The child am jumping rope.",
-      "The child be jumping rope."
+     "resp": "COOKING",
+     "pistas": [
+      "I am in the <b>kitchen</b>.",
+      "I am using a <b>pot</b> and a spoon.",
+      "Something smells good — lunch is almost ready!"
      ],
-     "d": [
-      "Comece contando: a legenda fala de uma criança ou de várias?",
-      "Uma pessoa só pede o ajudante <b>is</b>.",
-      "É <b>The child is jumping rope.</b> — ela está acesa aí embaixo: toque nela para seguir."
-     ],
-     "img": "rn_child_jumping"
+     "outros": [
+      "READING",
+      "SWIMMING",
+      "SLEEPING"
+     ]
     },
     {
-     "p": "Agora são <b>três</b> crianças jogando bola. Qual legenda está certa?",
-     "c": "The children are playing football.",
-     "e": [
-      "The children is playing football.",
-      "The children am playing football.",
-      "The children be playing football."
+     "resp": "PLAYING FOOTBALL",
+     "pistas": [
+      "I am on the <b>field</b> with my friends.",
+      "I am kicking a <b>ball</b>.",
+      "Goal! Everybody is cheering."
      ],
-     "d": [
-      "Conte de novo: quantas crianças a legenda está falando?",
-      "Mais de uma pessoa pede o ajudante <b>are</b>.",
-      "É <b>The children are playing football.</b> — ela está acesa aí embaixo: toque nela para seguir."
-     ],
-     "img": "rn_kids_football"
+     "outros": [
+      "DANCING",
+      "PAINTING",
+      "WRITING"
+     ]
     },
     {
-     "p": "Agora é você, o repórter, escrevendo a matéria. Qual legenda está certa?",
-     "c": "I am writing the report.",
-     "e": [
-      "I is writing the report.",
-      "I are writing the report.",
-      "I be writing the report."
+     "resp": "LISTENING TO MUSIC",
+     "pistas": [
+      "I have <b>headphones</b> on my ears.",
+      "My head is moving to the beat.",
+      "I can't hear you — the song is too good!"
      ],
-     "d": [
-      "Olhe a primeira palavra: quem está falando é o próprio repórter.",
-      "O <b>I</b> tem um ajudante só dele, e não é is nem are.",
-      "É <b>I am writing the report.</b> — ela está acesa aí embaixo: toque nela para seguir."
-     ],
-     "img": "rn_write_note"
+     "outros": [
+      "WATCHING TV",
+      "RUNNING",
+      "COOKING"
+     ]
     }
-   ],
-   "dadosExtra": {
-    "TITULO": "IS, ARE OU AM?",
-    "FECHO": "Você já escolhe o ajudante certo sozinho!"
-   }
+   ]
   },
   {
    "id": "f14",
-   "mec": "morfemas",
-   "selo": "A PEÇA DO FIM",
-   "enunciado": "Na oficina do jornal as ações são montadas em duas peças: o verbo e o fim que ele leva. Monte cada uma.",
-   "dica": "Escolha primeiro o pedaço do verbo e só depois o pedaço do fim.",
-   "conceito": "objetivo4",
-   "dados": [
-    {
-     "pista": "a ação de correr, acontecendo agora",
-     "palavra": "RUNNING",
-     "vagas": [
-      {
-       "k": "v1",
-       "tipo": "raiz",
-       "rot": "O VERBO"
-      },
-      {
-       "k": "v2",
-       "tipo": "suf",
-       "rot": "O FIM"
-      }
-     ],
-     "pecas": [
-      {
-       "t": "RUNN",
-       "tipo": "raiz",
-       "k": "v1"
-      },
-      {
-       "t": "RUN",
-       "tipo": "raiz",
-       "msg": "RUN mais ING daria RUNING, com um N só. Em RUN a última letra dobra antes do -ING: RUNNING."
-      },
-      {
-       "t": "ING",
-       "tipo": "suf",
-       "k": "v2"
-      },
-      {
-       "t": "ED",
-       "tipo": "suf",
-       "msg": "O fim -ED conta o que já aconteceu. A legenda do agora termina em -ING."
-      },
-      {
-       "t": "S",
-       "tipo": "suf",
-       "msg": "O fim -S é do que a pessoa faz sempre: he runs every morning. O agora pede -ING."
-      }
-     ]
-    },
-    {
-     "pista": "a ação de escrever, acontecendo agora",
-     "palavra": "WRITING",
-     "vagas": [
-      {
-       "k": "v1",
-       "tipo": "raiz",
-       "rot": "O VERBO"
-      },
-      {
-       "k": "v2",
-       "tipo": "suf",
-       "rot": "O FIM"
-      }
-     ],
-     "pecas": [
-      {
-       "t": "WRIT",
-       "tipo": "raiz",
-       "k": "v1"
-      },
-      {
-       "t": "WRITE",
-       "tipo": "raiz",
-       "msg": "WRITE termina em E mudo, e esse E cai antes do -ING: WRIT mais ING dá WRITING."
-      },
-      {
-       "t": "ING",
-       "tipo": "suf",
-       "k": "v2"
-      },
-      {
-       "t": "ED",
-       "tipo": "suf",
-       "msg": "O fim -ED é do passado. A legenda do agora termina em -ING."
-      },
-      {
-       "t": "S",
-       "tipo": "suf",
-       "msg": "O fim -S é do costume: she writes every day. O agora pede -ING."
-      }
-     ]
-    },
-    {
-     "pista": "a ação de estudar, acontecendo agora",
-     "palavra": "STUDYING",
-     "vagas": [
-      {
-       "k": "v1",
-       "tipo": "raiz",
-       "rot": "O VERBO"
-      },
-      {
-       "k": "v2",
-       "tipo": "suf",
-       "rot": "O FIM"
-      }
-     ],
-     "pecas": [
-      {
-       "t": "STUDY",
-       "tipo": "raiz",
-       "k": "v1"
-      },
-      {
-       "t": "STUDI",
-       "tipo": "raiz",
-       "msg": "O Y só vira I antes do -ES: he studies. Antes do -ING o Y fica onde está: STUDY mais ING."
-      },
-      {
-       "t": "ING",
-       "tipo": "suf",
-       "k": "v2"
-      },
-      {
-       "t": "YING",
-       "tipo": "suf",
-       "msg": "O Y já está dentro de STUDY. Com YING sobraria um Y: STUDYYING."
-      },
-      {
-       "t": "ED",
-       "tipo": "suf",
-       "msg": "O fim -ED é do passado. O agora pede -ING."
-      }
-     ]
-    }
-   ],
-   "dadosExtra": {
-    "TIPOMSG": {
-     "pre": "Este pedaço é de COMEÇO: ele mora na primeira vaga, antes da palavra.",
-     "raiz": "Este é o pedaço do VERBO: ele mora na vaga da esquerda.",
-     "suf": "Este pedaço é de FIM: ele mora na última vaga, depois do verbo."
-    }
-   }
-  },
-  {
-   "id": "f15",
-   "mec": "digitar",
-   "selo": "ESCREVA A AÇÃO",
-   "enunciado": "O sistema do jornal perdeu quatro ações do arquivo. Escreva cada uma, letra por letra.",
-   "dica": "Diga o verbo primeiro e só depois pense no que acontece com a última letra dele.",
-   "conceito": "objetivo4",
-   "dados": [
-    {
-     "palavra": "RUNNING",
-     "pista": "O menino está correndo atrás do ônibus. Escreva a ação com -ING.",
-     "dic": "O verbo é RUN e a última letra <b>dobra</b>: R-U-N-N-I-N-G.",
-     "img": "rn_man_running"
-    },
-    {
-     "palavra": "WRITING",
-     "pista": "A repórter está escrevendo a matéria. Escreva a ação com -ING.",
-     "dic": "O verbo é WRITE e o <b>E</b> do fim cai: W-R-I-T-I-N-G.",
-     "img": "rn_write_note"
-    },
-    {
-     "palavra": "SITTING",
-     "pista": "O senhor está sentado no banco da praça. Escreva a ação com -ING.",
-     "dic": "O verbo é SIT e a última letra <b>dobra</b>: S-I-T-T-I-N-G.",
-     "img": "rn_man_bench"
-    },
-    {
-     "palavra": "PLAYING",
-     "pista": "As crianças estão jogando bola na quadra. Escreva a ação com -ING.",
-     "dic": "O verbo é PLAY e ele <b>não muda nada</b>: P-L-A-Y-I-N-G.",
-     "img": "rn_kids_football"
-    }
-   ],
-   "dadosExtra": {
-    "ENUN": "Monte a ação, letra por letra.",
-    "FECHO": "Você recuperou todas as ações do arquivo!",
-    "LETRAS": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-   }
-  },
-  {
-   "id": "f16",
-   "mec": "cruzadinha",
-   "selo": "A CRUZADINHA DO PLANTÃO",
-   "enunciado": "O caderno de passatempo do jornal também fecha hoje. Complete a cruzadinha com as ações do momento.",
-   "dica": "Leia a definição, diga a ação em português e depois escreva a forma com -ING.",
-   "conceito": "objetivo4",
-   "dados": [
-    {
-     "p": "EATING",
-     "ac": "EATING",
-     "r": 0,
-     "c": 0,
-     "pLin": 0,
-     "pCol": 1,
-     "n": 1,
-     "d": "O menino leva o lanche à boca. Ele está comendo — a ação com -ING."
-    },
-    {
-     "p": "TALKING",
-     "ac": "TALKING",
-     "r": 0,
-     "c": 2,
-     "pLin": 1,
-     "pCol": 0,
-     "n": 2,
-     "d": "Dois amigos param na calçada e conversam. A ação com -ING."
-    },
-    {
-     "p": "WAITING",
-     "ac": "WAITING",
-     "r": 4,
-     "c": 0,
-     "pLin": 0,
-     "pCol": 1,
-     "n": 3,
-     "d": "A senhora está parada no ponto, olhando a rua. Ela está esperando."
-    }
-   ],
-   "dadosExtra": {
-    "BANCO": "ADEGIKLMNORSTW"
-   }
-  },
-  {
-   "id": "aquecimento",
-   "mec": "relampago",
-   "selo": "AQUECIMENTO",
-   "enunciado": "Metade do plantão já passou. O Pixel vai disparar oito perguntas rápidas sobre o que você já descobriu hoje.",
-   "dica": "Não corra: leia a pergunta inteira e lembre da fase em que você viu aquilo.",
-   "conceito": "objetivo4",
-   "dados": [
-    {
-     "p": "Na foto o menino leva o lanche à boca. O que ele está fazendo?",
-     "c": "EATING",
-     "e": [
-      "RUNNING",
-      "READING"
-     ]
-    },
-    {
-     "p": "E a moça de capacete, em cima de duas rodas?",
-     "c": "RIDING",
-     "e": [
-      "COOKING",
-      "WAITING"
-     ]
-    },
-    {
-     "p": "Quantas peças tem a legenda do agora?",
-     "c": "Duas: o ajudante e a ação com -ing",
-     "e": [
-      "Uma: só a ação",
-      "Três: quem, quando e onde"
-     ]
-    },
-    {
-     "p": "THE DANCER é uma pessoa só. Qual ajudante ela pede?",
-     "c": "IS",
-     "e": [
-      "ARE",
-      "AM"
-     ]
-    },
-    {
-     "p": "TWO FRIENDS são duas pessoas. Qual ajudante elas pedem?",
-     "c": "ARE",
-     "e": [
-      "IS",
-      "AM"
-     ]
-    },
-    {
-     "p": "Quando quem fala é I, o repórter, qual ajudante entra?",
-     "c": "AM",
-     "e": [
-      "IS",
-      "ARE"
-     ]
-    },
-    {
-     "p": "O verbo RUN com o fim -ING fica como?",
-     "c": "RUNNING",
-     "e": [
-      "RUNING",
-      "RUNNED"
-     ]
-    },
-    {
-     "p": "O verbo WRITE com o fim -ING fica como?",
-     "c": "WRITING",
-     "e": [
-      "WRITEING",
-      "WRITTING"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f18",
-   "mec": "intruso",
-   "selo": "AGORA OU DE SEMPRE?",
-   "enunciado": "O editor misturou legendas do plantão com legendas do arquivo. Em cada grupo, três contam o momento e uma conta o costume. Ache a que não é do agora.",
-   "dica": "Procure em cada legenda as duas peças do agora: o ajudante e a ação com -ing.",
-   "conceito": "objetivo5",
-   "dados": [
-    {
-     "selo": "AGORA OU DE SEMPRE?",
-     "tipo": "texto",
-     "enun": "Três legendas contam o que está acontecendo <b>neste momento</b>. <b>Qual não é do agora?</b>",
-     "itens": [
-      {
-       "k": "a",
-       "n": "She is dancing right now."
-      },
-      {
-       "k": "b",
-       "n": "He is waiting for the bus."
-      },
-      {
-       "k": "c",
-       "n": "They are playing football."
-      },
-      {
-       "k": "d",
-       "n": "He plays football every Sunday."
-      }
-     ],
-     "fora": "d",
-     "nomeFora": "He plays football every Sunday.",
-     "d1": "Passe o dedo por cada legenda procurando o ajudante e a ação com -ing.",
-     "d2": "Três delas trazem is ou are mais um verbo em -ing. Uma traz só o verbo, e ainda diz every Sunday.",
-     "d3": "A de fora é He plays football every Sunday.: ela conta o que ele faz sempre, não o que está acontecendo agora.",
-     "razoes": [
-      {
-       "t": "As outras três falam do momento; esta fala do costume de todo domingo.",
-       "ok": 1
-      },
-      {
-       "t": "Porque esta legenda é a mais comprida.",
-       "ok": 0
-      },
-      {
-       "t": "Porque esta legenda fala de futebol.",
-       "ok": 0
-      },
-      {
-       "t": "Porque esta legenda é a última da lista.",
-       "ok": 0
-      }
-     ],
-     "p1": "Isso até pode ser verdade sobre a frase. Mas olhe as OUTRAS três: o que elas têm que esta não tem?",
-     "p2": "Troque every Sunday por right now e a frase inteira teria de mudar de forma. Quem decide é o TEMPO da ação, não o assunto nem o tamanho.",
-     "p3": "As três primeiras têm is ou are mais -ing e falam do momento. He plays fala do que se repete — por isso é a de fora.",
-     "regra": "três falam do momento; uma fala do costume"
-    },
-    {
-     "selo": "AGORA OU DE SEMPRE?",
-     "tipo": "texto",
-     "enun": "De novo: três são do plantão e uma é do arquivo. <b>Qual não é do agora?</b>",
-     "itens": [
-      {
-       "k": "a",
-       "n": "Every morning she drinks coffee."
-      },
-      {
-       "k": "b",
-       "n": "The cook is frying pastel now."
-      },
-      {
-       "k": "c",
-       "n": "I am taking photos at the square."
-      },
-      {
-       "k": "d",
-       "n": "Two friends are talking at the corner."
-      }
-     ],
-     "fora": "a",
-     "nomeFora": "Every morning she drinks coffee.",
-     "d1": "Comece pela palavra que diz QUANDO: now, every morning, at the moment.",
-     "d2": "Três legendas trazem is, am ou are mais um verbo em -ing. Uma traz o verbo sozinho, com every morning na frente.",
-     "d3": "A de fora é Every morning she drinks coffee.: ela conta o costume dela, não o flagra de agora.",
-     "razoes": [
-      {
-       "t": "As outras três mostram a ação acontecendo; esta mostra um hábito de toda manhã.",
-       "ok": 1
-      },
-      {
-       "t": "Porque esta legenda começa com uma letra maiúscula diferente.",
-       "ok": 0
-      },
-      {
-       "t": "Porque esta legenda fala de café.",
-       "ok": 0
-      },
-      {
-       "t": "Porque esta legenda é a primeira da lista.",
-       "ok": 0
-      }
-     ],
-     "p1": "Isso pode ser verdade sobre essa legenda. Mas o que junta as OUTRAS três é a FORMA delas. Olhe de novo.",
-     "p2": "Se a legenda falasse de chá em vez de café continuaria sendo a de fora. O que decide é o tempo da ação.",
-     "p3": "As outras três têm ajudante mais -ing e mostram a cena acontecendo. Every morning she drinks conta o hábito — por isso é a de fora.",
-     "regra": "três mostram a cena acontecendo; uma conta o hábito"
-    }
-   ]
-  },
-  {
-   "id": "f19",
-   "mec": "completar",
-   "selo": "QUANDO MANDA NA FORMA",
-   "enunciado": "A palavra que diz QUANDO decide a forma da legenda. Toque na peça que fecha cada uma.",
-   "dica": "Ache primeiro a palavra que diz quando: right now, every Sunday, usually.",
-   "conceito": "objetivo5",
-   "dados": [
-    {
-     "ante": "Right now he ",
-     "dep": " football.",
-     "cer": "is playing",
-     "out": [
-      "plays",
-      "play"
-     ],
-     "dic": "Right now quer dizer neste momento, e o momento pede ajudante mais ação com <b>-ing</b>.",
-     "img": "rn_kids_football"
-    },
-    {
-     "ante": "Every Sunday he ",
-     "dep": " football.",
-     "cer": "plays",
-     "out": [
-      "is playing",
-      "are playing"
-     ],
-     "dic": "Every Sunday quer dizer todo domingo: é costume, e costume não usa o <b>-ing</b>."
-    },
-    {
-     "ante": "Look! The bus ",
-     "dep": " now.",
-     "cer": "is coming",
-     "out": [
-      "comes",
-      "come"
-     ],
-     "dic": "Look! e now avisam que a cena está acontecendo na sua frente.",
-     "img": "rn_bus_coming"
-    },
-    {
-     "ante": "She usually ",
-     "dep": " tea in the morning.",
-     "cer": "drinks",
-     "out": [
-      "is drinking",
-      "are drinking"
-     ],
-     "dic": "Usually quer dizer de costume: não é o flagra deste momento.",
-     "img": "rn_tea_morning"
-    }
-   ],
-   "dadosExtra": {
-    "ENUN": "Toque na peça que completa a legenda.",
-    "DEPOIS": "Leia a legenda inteira e procure a palavra que diz QUANDO.",
-    "FECHO": "Você já separa o agora do de sempre!"
-   }
-  },
-  {
-   "id": "f20",
-   "mec": "memoria",
-   "selo": "AS PALAVRAS DO QUANDO",
-   "enunciado": "O manual da redação guarda cada palavra de tempo ao lado do que ela quer dizer. Vire as cartas e junte os pares.",
-   "dica": "Vire uma carta, leia em voz baixa e procure a carta que explica aquela palavra.",
-   "conceito": "objetivo5",
-   "dados": [
-    {
-     "k": "now",
-     "pal": "RIGHT NOW",
-     "sen": "agora, neste instante"
-    },
-    {
-     "k": "mom",
-     "pal": "AT THE MOMENT",
-     "sen": "neste momento"
-    },
-    {
-     "k": "eve",
-     "pal": "EVERY DAY",
-     "sen": "todo dia, de costume"
-    },
-    {
-     "k": "usu",
-     "pal": "USUALLY",
-     "sen": "normalmente, de costume"
-    }
-   ]
-  },
-  {
-   "id": "f21",
-   "mec": "ligar",
-   "selo": "O PAR CERTO",
-   "enunciado": "Cada palavra de tempo puxa uma forma de verbo. Ligue as duas colunas.",
-   "dica": "Leia a palavra da esquerda: se ela fala do momento, o verbo do outro lado vem com -ing.",
-   "conceito": "objetivo5",
-   "dados": [
-    {
-     "k": "p0",
-     "t": "Right now",
-     "s": "she is cooking"
-    },
-    {
-     "k": "p1",
-     "t": "Every night",
-     "s": "she cooks"
-    },
-    {
-     "k": "p2",
-     "t": "At the moment",
-     "s": "they are running"
-    },
-    {
-     "k": "p3",
-     "t": "Every morning",
-     "s": "they run"
-    }
-   ],
-   "dadosExtra": {
-    "DICAS": [
-     "Comece pela palavra da esquerda: ela diz QUANDO a ação acontece.",
-     "Right now e At the moment falam do momento e pedem is ou are mais -ing. Every night e Every morning falam do costume e não pedem -ing. Siga a linha tracejada que apareceu.",
-     "Olhe do outro lado: a resposta certa está acesa, no fim da linha. Toque nela."
-    ],
-    "FEITOS": [],
-    "ENUN": "Ligue cada <b>palavra de tempo</b> à <b>forma do verbo</b> que ela pede.",
-    "FECHO": "Você ligou cada tempo à forma certa!"
-   }
-  },
-  {
-   "id": "f22",
-   "mec": "conserte-o-erro",
-   "selo": "A LEGENDA QUE NEGA",
-   "enunciado": "Às vezes a notícia é o que NÃO está acontecendo. Três legendas de negativa saíram erradas: ache a palavra trocada e conserte.",
-   "dica": "Na negativa do agora só entra uma palavra a mais. O resto da legenda continua igual.",
-   "conceito": "objetivo6",
-   "dados": [
-    {
-     "selo": "O SENHOR DO BANCO",
-     "cab": "ELE NÃO ESTÁ DORMINDO",
-     "bal": "Esta legenda de negativa saiu com uma palavra trocada. Ache e conserte.",
-     "pecas": [
-      "HE",
-      "IS",
-      "NOT",
-      "SLEEP"
-     ],
-     "erro": 3,
-     "certa": "SLEEPING",
-     "ops": [
-      "SLEEPING",
-      "SLEEPS",
-      "SLEPT"
-     ],
-     "por": "A negativa só encaixa o NOT no meio. A ação continua terminando em <b>-ing</b>.",
-     "dicas": [
-      "Compare esta legenda com as do começo do plantão: o que mudou nela?",
-      "As três primeiras palavras estão certas. Olhe a última.",
-      "Era esta aqui. Eu marquei para você: agora escolha a certa."
-     ],
-     "dicas2": [
-      "Mesmo negando, a ação do agora não perde o <b>-ing</b>.",
-      "Não é sleeps, que é do costume, nem slept, que é do passado. A certa está piscando.",
-      "Era o <b>SLEEPING</b>. Eu troquei para você ler: SHE IS NOT SLEEPING."
-     ],
-     "img": "rn_man_bench"
-    },
-    {
-     "selo": "A BANCA FECHADA",
-     "cab": "A PALAVRA QUE NEGA",
-     "bal": "Nesta o revisor trocou a palavra que nega. Ache e conserte.",
-     "pecas": [
-      "THEY",
-      "ARE",
-      "NO",
-      "WORKING"
-     ],
-     "erro": 2,
-     "certa": "NOT",
-     "ops": [
-      "NOT",
-      "NEVER",
-      "NOTHING"
-     ],
-     "por": "Depois do ajudante a palavra que nega é <b>not</b>: they are not working.",
-     "dicas": [
-      "O ajudante e a ação estão certos. Sobra uma palavra no meio.",
-      "Em inglês a palavra que nega depois de is, am ou are não é no.",
-      "Era esta aqui. Eu marquei para você: agora escolha a certa."
-     ],
-     "dicas2": [
-      "A palavra que entra depois do ajudante tem três letras e termina em T.",
-      "Não é never nem nothing: as duas mudam o sentido da legenda. A certa está piscando.",
-      "Era o <b>NOT</b>. Eu troquei para você ler: THEY ARE NOT WORKING."
-     ],
-     "img": "rn_stand_closed"
-    },
-    {
-     "selo": "O ERRO CAMPEÃO",
-     "cab": "O AJUDANTE DA NEGATIVA",
-     "bal": "Esta é a legenda que mais chega errada na redação. Ache e conserte.",
-     "pecas": [
-      "HE",
-      "DOESN'T",
-      "WORKING",
-      "TODAY"
-     ],
-     "erro": 1,
-     "certa": "IS NOT",
-     "ops": [
-      "IS NOT",
-      "NOT",
-      "AM NOT"
-     ],
-     "por": "Doesn't nega o costume: he doesn't work on Sundays. Para negar o agora entra <b>is not</b> mais a ação com -ing.",
-     "dicas": [
-      "A ação já está com -ing, então a legenda é do agora. Olhe a palavra antes dela.",
-      "A palavra suspeita é a que a gente usa quando fala de costume.",
-      "Era esta aqui. Eu marquei para você: agora escolha a certa."
-     ],
-     "dicas2": [
-      "A negativa do agora junta o ajudante e o not.",
-      "Não é só not, que ficaria sem ajudante, nem am not, que é do I. A certa está piscando.",
-      "Era o <b>IS NOT</b>. Eu troquei para você ler: HE IS NOT WORKING TODAY."
-     ],
-     "img": "rn_stand_closed"
-    }
-   ]
-  },
-  {
-   "id": "f23",
-   "mec": "montar-frase",
-   "selo": "MONTE A NEGATIVA",
-   "enunciado": "A edição pediu três legendas de negativa. Monte cada uma, peça por peça.",
-   "dica": "A ordem é sempre a mesma: quem, ajudante, o not e a ação com -ing.",
-   "conceito": "objetivo6",
-   "dados": [
-    {
-     "w": [
-      "He",
-      "is",
-      "not",
-      "sleeping"
-     ],
-     "c": [
-      "quem",
-      "aju",
-      "neg",
-      "acao"
-     ],
-     "apoio": true,
-     "img": "rn_man_bench"
-    },
-    {
-     "w": [
-      "They",
-      "are",
-      "not",
-      "working"
-     ],
-     "c": [
-      "quem",
-      "aju",
-      "neg",
-      "acao"
-     ],
-     "apoio": false,
-     "img": "rn_stand_closed"
-    },
-    {
-     "w": [
-      "I",
-      "am",
-      "not",
-      "waiting"
-     ],
-     "c": [
-      "quem",
-      "aju",
-      "neg",
-      "acao"
-     ],
-     "apoio": false,
-     "img": "rn_photographer"
-    }
-   ],
-   "dadosExtra": {
-    "CLA": {
-     "quem": {
-      "r": "quem",
-      "d": "<b>quem</b> aparece na foto"
-     },
-     "aju": {
-      "r": "ajudante",
-      "d": "a palavrinha <b>am</b>, <b>is</b> ou <b>are</b>"
-     },
-     "neg": {
-      "r": "o não",
-      "d": "a palavrinha <b>not</b>, que nega a ação"
-     },
-     "acao": {
-      "r": "ação -ING",
-      "d": "a <b>ação</b>, sempre terminada em <b>-ing</b>"
-     }
-    }
-   }
-  },
-  {
-   "id": "f24",
    "mec": "caca-palavras",
-   "selo": "AS PALAVRAS DA NEGATIVA",
-   "enunciado": "Cinco palavras da negativa ficaram escondidas na grade do caderno. Ache todas — elas podem estar deitadas, em pé ou na diagonal.",
-   "dica": "Comece pela menor delas: são só três letras e é ela que nega tudo.",
-   "conceito": "objetivo6",
+   "selo": "FIND THE -ING VERBS",
+   "enunciado": "Ache no quadro as palavras que terminam em <b>-ing</b>.",
+   "dica": "As palavras est&#227;o em p&#233; ou deitadas. Toque na 1&#170; e na &#250;ltima letra.",
+   "conceito": "objetivo4",
    "dados": [
-    "NOT",
-    "SLEEPING",
-    "WORKING",
-    "WAITING",
-    "LISTENING"
+    "COOKING",
+    "READING",
+    "PLAYING",
+    "DANCING",
+    "RUNNING"
    ],
    "dadosExtra": {
     "CORP": [
@@ -1501,511 +1006,309 @@
      "p4",
      "p5"
     ],
-    "PALDEF": {
-     "NOT": "A palavra que nega. Ela entra logo depois do ajudante: is not running.",
-     "SLEEPING": "Dormindo. She is not sleeping: ela não está dormindo.",
-     "WORKING": "Trabalhando. They are not working today.",
-     "WAITING": "Esperando. I am not waiting for the bus.",
-     "LISTENING": "Ouvindo. He is not listening to the radio."
-    },
-    "LETRAS": "ACDEGIKLMNORSTUWY",
-    "MODO": "definicoes",
-    "TITULO": "AS PALAVRAS DA NEGATIVA"
+    "LETRAS": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "TITULO": "-ING VERBS",
+    "MODO": "lista"
    }
   },
   {
-   "id": "f25",
-   "mec": "escolher",
-   "selo": "QUAL NEGA CERTO?",
-   "enunciado": "Quatro legendas negam a mesma cena, mas só uma está escrita corretamente. Escolha a que vai para o jornal.",
-   "dica": "Confira a ordem: primeiro o ajudante, depois o not, depois a ação com -ing.",
-   "conceito": "objetivo6",
-   "dados": [
-    {
-     "p": "O senhor do banco está de olhos abertos, lendo. Qual legenda <b>nega</b> corretamente que ele está dormindo?",
-     "c": "He is not sleeping.",
-     "e": [
-      "He not is sleeping.",
-      "He don't sleeping.",
-      "He is not sleep."
-     ],
-     "d": [
-      "A negativa do agora não tira nenhuma peça: ela só acrescenta uma.",
-      "A ordem é ajudante, depois <b>not</b>, depois a ação com <b>-ing</b>.",
-      "É <b>He is not sleeping.</b> — ela está acesa aí embaixo: toque nela para seguir."
-     ],
-     "img": "rn_man_bench"
-    },
-    {
-     "p": "A banca está fechada e ninguém trabalha ali hoje. Qual legenda nega corretamente?",
-     "c": "They are not working today.",
-     "e": [
-      "They not are working today.",
-      "They doesn't working today.",
-      "They are not work today."
-     ],
-     "d": [
-      "Com duas ou mais pessoas o ajudante muda, mas a ordem continua a mesma.",
-      "Procure a opção com <b>are</b>, depois <b>not</b>, depois a ação em <b>-ing</b>.",
-      "É <b>They are not working today.</b> — ela está acesa aí embaixo: toque nela para seguir."
-     ],
-     "img": "rn_stand_closed"
-    },
-    {
-     "p": "Você não está esperando ninguém: está fotografando. Qual legenda nega corretamente?",
-     "c": "I am not waiting.",
-     "e": [
-      "I not am waiting.",
-      "I don't waiting.",
-      "I am not wait."
-     ],
-     "d": [
-      "Quem fala aqui é o I, e ele tem um ajudante só dele.",
-      "Procure <b>am</b>, depois <b>not</b>, depois a ação com <b>-ing</b>.",
-      "É <b>I am not waiting.</b> — ela está acesa aí embaixo: toque nela para seguir."
-     ],
-     "img": "rn_photographer"
-    }
-   ],
-   "dadosExtra": {
-    "TITULO": "A LEGENDA QUE NEGA",
-    "FECHO": "Você já nega o agora sem errar a ordem!"
-   }
-  },
-  {
-   "id": "f26",
-   "mec": "quem-sou-eu",
-   "selo": "A PERGUNTA NO AR",
-   "enunciado": "O repórter entrou ao vivo e perguntou: what am I doing? Leia as pistas de cada pessoa e descubra quem está falando.",
-   "dica": "A primeira pista já traz a pergunta do repórter. Leia as três antes de decidir.",
-   "conceito": "objetivo7",
-   "dados": [
-    {
-     "resp": "THE DANCER",
-     "pistas": [
-      "What am I doing? I am moving my arms and my feet.",
-      "I am following the sound of a drum.",
-      "People are clapping around me."
-     ],
-     "outros": [
-      "THE COOK",
-      "THE READER",
-      "THE DRIVER"
-     ]
-    },
-    {
-     "resp": "THE BUS DRIVER",
-     "pistas": [
-      "What am I doing? I am sitting and holding a big wheel.",
-      "I am stopping at every corner of the avenue.",
-      "People are getting on and off behind me."
-     ],
-     "outros": [
-      "THE CYCLIST",
-      "THE PHOTOGRAPHER",
-      "THE COOK"
-     ]
-    },
-    {
-     "resp": "THE STUDENT",
-     "pistas": [
-      "What am I doing? I am carrying a heavy backpack.",
-      "I am reading a note before the test.",
-      "I am running to catch the school bell."
-     ],
-     "outros": [
-      "THE TEACHER",
-      "THE COOK",
-      "THE DANCER"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f27",
+   "id": "f15",
    "mec": "cruzadinha",
-   "selo": "AS PALAVRAS DA PERGUNTA",
-   "enunciado": "Para entrar ao vivo o repórter precisa das palavras da pergunta. Complete a cruzadinha com elas.",
-   "dica": "Cada definição diz o que aquela palavra quer saber: quem, o quê, ou a ação.",
-   "conceito": "objetivo7",
+   "selo": "CROSSWORD: -ING",
+   "enunciado": "Preencha a cruzadinha com <b>verbos-ing</b>. Leia as dicas.",
+   "dica": "Cada dica descreve uma a&#231;&#227;o que est&#225; acontecendo agora.",
+   "conceito": "objetivo4",
    "dados": [
     {
-     "p": "DOING",
-     "ac": "DOING",
+     "p": "PLAYING",
+     "ac": "PLAYING",
      "r": 2,
      "c": 0,
      "pLin": 0,
      "pCol": 1,
      "n": 1,
-     "d": "A pergunta do repórter termina com esta palavra: What is she ...?"
+     "d": "She is doing this with a ball, on the field."
     },
     {
-     "p": "WHO",
-     "ac": "WHO",
-     "r": 0,
-     "c": 1,
+     "p": "DANCING",
+     "ac": "DANCING",
+     "r": 1,
+     "c": 2,
      "pLin": 1,
      "pCol": 0,
      "n": 2,
-     "d": "Palavra da pergunta que quer saber QUEM: ... is taking the photo?"
+     "d": "She is doing this to the music."
     },
     {
-     "p": "WHAT",
-     "ac": "WHAT",
-     "r": 1,
-     "c": 0,
-     "pLin": 0,
-     "pCol": 1,
+     "p": "RUNNING",
+     "ac": "RUNNING",
+     "r": 0,
+     "c": 5,
+     "pLin": 1,
+     "pCol": 0,
      "n": 3,
-     "d": "Palavra da pergunta que quer saber O QUÊ: ... is he doing?"
+     "d": "He is doing this fast, moving his legs."
     }
    ],
    "dadosExtra": {
-    "BANCO": "ADEGHINORTWU"
+    "BANCO": "ACDGILNOPRSTUY"
    }
   },
   {
-   "id": "f28",
-   "mec": "ordenar",
-   "selo": "MONTE A PERGUNTA",
-   "enunciado": "As palavras da pergunta ao vivo caíram fora de ordem. Ponha cada uma no lugar dela.",
-   "dica": "Na pergunta do agora o ajudante sai da frente: ele vem antes de quem faz a ação.",
-   "conceito": "objetivo7",
-   "dados": [
-    "Is",
-    "she",
-    "reading",
-    "the",
-    "newspaper?"
-   ],
-   "dadosExtra": {
-    "ORDTXT": {
-     "selo": "A PERGUNTA NO AR",
-     "balao": "O repórter vai perguntar ao vivo. Ponha as palavras <b>na ordem da pergunta</b>.",
-     "hint": "Toque na palavra ou arraste até a fila.",
-     "d": [
-      "Na pergunta do agora o <b>ajudante vem primeiro</b>, antes de quem faz a ação.",
-      "A ordem é Is, depois she, depois a ação com -ing. A palavra da vez está piscando.",
-      "Era esta! Vamos juntos: eu coloco e você segue."
-     ],
-     "fim": "Pergunta pronta: Is she reading the newspaper?"
-    }
-   }
-  },
-  {
-   "id": "f29",
-   "mec": "digitar",
-   "selo": "RESPONDA AO VIVO",
-   "enunciado": "O repórter perguntou e a redação espera a resposta. Escreva a ação de cada cena, letra por letra.",
-   "dica": "Leia a pergunta, olhe a descrição da cena e escreva a ação com -ing.",
-   "conceito": "objetivo7",
-   "dados": [
-    {
-     "palavra": "COOKING",
-     "pista": "What is the man doing at the stand? Ele está com a frigideira na mão.",
-     "dic": "O verbo é COOK e ele não muda nada: C-O-O-K-I-N-G.",
-     "img": "rn_cook"
-    },
-    {
-     "palavra": "WAITING",
-     "pista": "What is the woman doing at the bus stop? Ela está parada, olhando a rua.",
-     "dic": "O verbo é WAIT e ele não muda nada: W-A-I-T-I-N-G.",
-     "img": "rn_woman_waiting"
-    },
-    {
-     "palavra": "TAKING",
-     "pista": "What is the reporter doing? Ele está com a câmera no olho.",
-     "dic": "O verbo é TAKE e o <b>E</b> do fim cai: T-A-K-I-N-G.",
-     "img": "rn_photographer"
-    }
-   ],
-   "dadosExtra": {
-    "ENUN": "Responda ao vivo: monte a ação, letra por letra.",
-    "FECHO": "Você respondeu a todas as perguntas do plantão!",
-    "LETRAS": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-   }
-  },
-  {
-   "id": "f30",
-   "mec": "morfemas",
-   "selo": "A ÚLTIMA PEÇA",
-   "enunciado": "Faltam três ações para fechar a capa. Monte cada uma na oficina: o verbo e o fim que ele leva.",
-   "dica": "Olhe a última letra do verbo antes de escolher: às vezes ela dobra, às vezes cai.",
-   "conceito": "objetivo8",
-   "dados": [
-    {
-     "pista": "a ação de tirar a foto, acontecendo agora",
-     "palavra": "TAKING",
-     "vagas": [
-      {
-       "k": "v1",
-       "tipo": "raiz",
-       "rot": "O VERBO"
-      },
-      {
-       "k": "v2",
-       "tipo": "suf",
-       "rot": "O FIM"
-      }
-     ],
-     "pecas": [
-      {
-       "t": "TAK",
-       "tipo": "raiz",
-       "k": "v1"
-      },
-      {
-       "t": "TAKE",
-       "tipo": "raiz",
-       "msg": "TAKE termina em E mudo, e esse E cai antes do -ING: TAK mais ING dá TAKING."
-      },
-      {
-       "t": "ING",
-       "tipo": "suf",
-       "k": "v2"
-      },
-      {
-       "t": "ED",
-       "tipo": "suf",
-       "msg": "O fim -ED é do passado. O agora pede -ING."
-      },
-      {
-       "t": "S",
-       "tipo": "suf",
-       "msg": "O fim -S é do costume: he takes photos every day. O agora pede -ING."
-      }
-     ]
-    },
-    {
-     "pista": "a ação de nadar, acontecendo agora",
-     "palavra": "SWIMMING",
-     "vagas": [
-      {
-       "k": "v1",
-       "tipo": "raiz",
-       "rot": "O VERBO"
-      },
-      {
-       "k": "v2",
-       "tipo": "suf",
-       "rot": "O FIM"
-      }
-     ],
-     "pecas": [
-      {
-       "t": "SWIMM",
-       "tipo": "raiz",
-       "k": "v1"
-      },
-      {
-       "t": "SWIM",
-       "tipo": "raiz",
-       "msg": "SWIM mais ING daria SWIMING, com um M só. A última letra dobra: SWIMMING."
-      },
-      {
-       "t": "ING",
-       "tipo": "suf",
-       "k": "v2"
-      },
-      {
-       "t": "ED",
-       "tipo": "suf",
-       "msg": "O fim -ED é do passado. O agora pede -ING."
-      },
-      {
-       "t": "S",
-       "tipo": "suf",
-       "msg": "O fim -S é do costume: he swims on Saturdays. O agora pede -ING."
-      }
-     ]
-    },
-    {
-     "pista": "a ação de carregar, acontecendo agora",
-     "palavra": "CARRYING",
-     "vagas": [
-      {
-       "k": "v1",
-       "tipo": "raiz",
-       "rot": "O VERBO"
-      },
-      {
-       "k": "v2",
-       "tipo": "suf",
-       "rot": "O FIM"
-      }
-     ],
-     "pecas": [
-      {
-       "t": "CARRY",
-       "tipo": "raiz",
-       "k": "v1"
-      },
-      {
-       "t": "CARRI",
-       "tipo": "raiz",
-       "msg": "O Y só vira I antes do -ES: he carries. Antes do -ING o Y fica onde está."
-      },
-      {
-       "t": "ING",
-       "tipo": "suf",
-       "k": "v2"
-      },
-      {
-       "t": "YING",
-       "tipo": "suf",
-       "msg": "O Y já está dentro de CARRY. Com YING sobraria um Y: CARRYYING."
-      },
-      {
-       "t": "ED",
-       "tipo": "suf",
-       "msg": "O fim -ED é do passado. O agora pede -ING."
-      }
-     ]
-    }
-   ],
-   "dadosExtra": {
-    "TIPOMSG": {
-     "pre": "Este pedaço é de COMEÇO: ele mora na primeira vaga, antes da palavra.",
-     "raiz": "Este é o pedaço do VERBO: ele mora na vaga da esquerda.",
-     "suf": "Este pedaço é de FIM: ele mora na última vaga, depois do verbo."
-    }
-   }
-  },
-  {
-   "id": "f31",
+   "id": "f16",
    "mec": "forca",
-   "selo": "O VERBO DA MANCHETE",
-   "enunciado": "A manchete de capa está pronta, mas o verbo dela sumiu da tela. Descubra letra por letra qual é a ação.",
-   "dica": "Comece pelas vogais e pense na cena que a definição descreve.",
-   "conceito": "objetivo8",
-   "dados": [
-    {
-     "p": "SHOUTING",
-     "ac": "SHOUTING",
-     "d": "A torcida está gritando na quadra. Qual é a ação, com -ING?"
-    },
-    {
-     "p": "CLAPPING",
-     "ac": "CLAPPING",
-     "d": "O público está batendo palmas para a dançarina. Qual é a ação, com -ING?"
-    },
-    {
-     "p": "SMILING",
-     "ac": "SMILING",
-     "d": "O cozinheiro está sorrindo para a câmera. Qual é a ação, com -ING?"
-    }
-   ],
+   "selo": "HANGMAN: -ING",
+   "enunciado": "Descubra o verbo-ing, letra por letra, antes do boneco terminar.",
+   "dica": "Leia a pista e comece pelas <b>vogais</b>.",
+   "conceito": "objetivo4",
    "dadosExtra": {
-    "FORCA_FIG": "pista",
-    "ALFA": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-   }
-  },
-  {
-   "id": "f32",
-   "mec": "ordenar",
-   "selo": "A MANCHETE DE CAPA",
-   "enunciado": "Última página antes de fechar a edição. Ponha as palavras na ordem da manchete.",
-   "dica": "Comece por quem aparece na foto e siga a mesma ordem que você usou o dia inteiro.",
-   "conceito": "objetivo8",
-   "dados": [
-    "The",
-    "children",
-    "are",
-    "playing",
-    "football",
-    "right now"
-   ],
-   "dadosExtra": {
-    "ORDTXT": {
-     "selo": "MANCHETE DE CAPA",
-     "balao": "A capa fecha em um minuto. Ponha as palavras <b>na ordem da manchete</b>.",
-     "hint": "Toque na palavra ou arraste até a fila.",
-     "d": [
-      "A manchete segue a mesma ordem da legenda: quem, ajudante, ação com -ing e o resto.",
-      "Depois de The vem children, e só então o ajudante. A palavra da vez está piscando.",
-      "Era esta! Vamos juntos: eu coloco e você segue."
-     ],
-     "fim": "Manchete pronta: The children are playing football right now."
-    }
-   }
-  },
-  {
-   "id": "f33",
-   "mec": "ensinar-mascote",
-   "selo": "ENSINE A REGRA AO PIXEL",
-   "enunciado": "O drone Pixel vai cobrir o plantão da noite sozinho e não sabe que legenda escrever. Ensine a regra a ele.",
-   "dica": "Pense nas duas peças que você juntou o dia inteiro para contar o momento.",
-   "conceito": "objetivo8",
+    "ALFA": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "FORCA_FIG": "pista"
+   },
    "dados": [
     {
-     "sel": "O PIXEL VAI ESCREVER SOZINHO",
-     "prob": "O Pixel recebeu uma foto de alguém <b>no meio da ação</b> e não sabe que legenda escrever. <b>Ensine</b> a regra a ele.",
-     "se": "SE a foto mostra a ação acontecendo AGORA, ENTÃO eu escrevo...",
-     "regras": [
-      {
-       "t": "o ajudante <b>am / is / are</b> mais a ação com <b>-ing</b>",
-       "cai": "AJUDANTE MAIS -ING",
-       "ok": 1
-      },
-      {
-       "t": "só o verbo, do jeito que ele é",
-       "cai": "SO O VERBO",
-       "ok": 0
-      },
-      {
-       "t": "o verbo com <b>-s</b> no fim",
-       "cai": "VERBO MAIS -S",
-       "ok": 0
-      },
-      {
-       "t": "o verbo com <b>-ed</b> no fim",
-       "cai": "VERBO MAIS -ED",
-       "ok": 0
-      }
-     ],
-     "bom": "A legenda entrou no ar e a foto passou a contar o momento. E olha só: isso que você acabou de ensinar tem nome. Chama-se <b>Present Continuous</b>.",
-     "porque": "Fiz o que você mandou e a legenda ficou contando um costume, não o flagra. O que a foto mostra: o que a pessoa faz sempre ou o que ela está fazendo agora?",
-     "d": [
-      "Pense nas duas peças que você juntou o dia inteiro.",
-      "Uma das peças é o ajudante am, is ou are. A outra termina em -ing.",
-      "A regra do AJUDANTE MAIS -ING está acesa: toque nela para ensinar o Pixel."
-     ]
+     "p": "COOKING",
+     "ac": "COOKING",
+     "d": "She is doing this in the kitchen."
     },
     {
-     "sel": "E QUANDO A CENA É DE SEMPRE?",
-     "prob": "Agora a foto veio do arquivo: mostra o que o vendedor faz <b>todo sábado</b>. O Pixel quer usar a mesma regra de novo. <b>Ensine</b> a regra certa.",
-     "se": "SE a foto conta o que acontece SEMPRE, ENTÃO eu escrevo...",
-     "regras": [
-      {
-       "t": "o verbo <b>sem</b> o -ing: he sells pastel",
-       "cai": "O VERBO SIMPLES",
-       "ok": 1
-      },
-      {
-       "t": "o ajudante <b>is</b> mais a ação com -ing",
-       "cai": "IS MAIS -ING",
-       "ok": 0
-      },
-      {
-       "t": "o ajudante <b>are</b> mais a ação com -ing",
-       "cai": "ARE MAIS -ING",
-       "ok": 0
-      },
-      {
-       "t": "só a ação com <b>-ing</b>, sem ajudante",
-       "cai": "SO O -ING",
-       "ok": 0
-      }
-     ],
-     "bom": "A legenda do arquivo ficou certa. Agora o Pixel olha a foto antes de escrever — e é isso que separa o jornal da fofoca.",
-     "porque": "Fiz como você ensinou e a legenda diz que ele está vendendo neste instante. Mas a foto é de todo sábado. Que forma conta o costume?",
-     "d": [
-      "Lembre da fase em que você separou right now de every day.",
-      "O -ing é do momento. O costume usa o verbo simples, sem ajudante.",
-      "A regra do VERBO SIMPLES está acesa: toque nela para ensinar o Pixel."
-     ]
+     "p": "READING",
+     "ac": "READING",
+     "d": "He is doing this with a newspaper."
+    },
+    {
+     "p": "DANCING",
+     "ac": "DANCING",
+     "d": "She is doing this to the music."
+    },
+    {
+     "p": "SWIMMING",
+     "ac": "SWIMMING",
+     "d": "She is doing this in the pool."
     }
    ]
+  },
+  {
+   "id": "f17",
+   "mec": "escolher",
+   "selo": "YES, NO OR ASK?",
+   "enunciado": "Escolha a frase <b>certa</b> em ingl&#234;s.",
+   "dica": "Negativa: is/are + <b>not</b>. Pergunta: come&#231;a com Is/Are.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "p": "Qual &#233; a <b>negativa</b> de 'She is cooking'?",
+     "c": "She is not cooking.",
+     "e": [
+      "She not cooking.",
+      "She is cooking not.",
+      "Is she cooking?"
+     ],
+     "d": [
+      "Negativa = be + <b>not</b>.",
+      "'She is' + not + cooking &#8594; She is not cooking."
+     ]
+    },
+    {
+     "p": "Qual &#233; a <b>pergunta</b> de 'They are playing'?",
+     "c": "Are they playing?",
+     "e": [
+      "They are playing?",
+      "Are playing they?",
+      "They playing are?"
+     ],
+     "d": [
+      "Pergunta come&#231;a com o <b>be</b>.",
+      "Are + they + playing? &#8594; Are they playing?"
+     ]
+    },
+    {
+     "p": "Escolha a negativa <b>certa</b>:",
+     "c": "They aren't running.",
+     "e": [
+      "They isn't running.",
+      "They aren't run.",
+      "They not running."
+     ],
+     "d": [
+      "'They' usa <b>aren't</b> (are + not).",
+      "E o verbo continua com -ing: running."
+     ]
+    }
+   ],
+   "dadosExtra": {
+    "TITULO": "YES, NO OR ASK?",
+    "FECHO": "You can say it, deny it and ask it!"
+   }
+  },
+  {
+   "id": "f18",
+   "mec": "ligar",
+   "selo": "QUESTION & ANSWER",
+   "enunciado": "Ligue cada <b>pergunta</b> com a <b>resposta curta</b> certa.",
+   "dica": "Yes/No + o mesmo be da pergunta (is/are).",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "k": "a",
+     "t": "Is she cooking?",
+     "s": "Yes, she is."
+    },
+    {
+     "k": "b",
+     "t": "Are they playing?",
+     "s": "Yes, they are."
+    },
+    {
+     "k": "c",
+     "t": "Is he sleeping?",
+     "s": "No, he isn't."
+    },
+    {
+     "k": "d",
+     "t": "Are you reading?",
+     "s": "Yes, I am."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Ligue a pergunta com a resposta curta.",
+    "DICAS": [
+     "A resposta usa o <b>mesmo be</b> da pergunta.",
+     "Is she...? &#8594; she <b>is</b>. Are they...? &#8594; they <b>are</b>.",
+     "'Are you...?' se responde com <b>I am</b>."
+    ],
+    "FECHO": "Great answers!",
+    "FEITOS": []
+   }
+  },
+  {
+   "id": "f19",
+   "mec": "completar",
+   "selo": "FINISH THE QUESTION",
+   "enunciado": "Toque no be que <b>abre</b> a pergunta.",
+   "dica": "he/she/it &#8594; Is. you/we/they &#8594; Are.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "img": "rn_playing_football",
+     "ante": "",
+     "dep": " they playing football?",
+     "cer": "Are",
+     "out": [
+      "Is",
+      "Am"
+     ],
+     "dic": "'they' pede <b>Are</b>."
+    },
+    {
+     "img": "rn_playing_guitar",
+     "ante": "",
+     "dep": " he playing the guitar?",
+     "cer": "Is",
+     "out": [
+      "Are",
+      "Am"
+     ],
+     "dic": "'he' pede <b>Is</b>."
+    },
+    {
+     "img": "rn_listening",
+     "ante": "",
+     "dep": " she listening to music?",
+     "cer": "Is",
+     "out": [
+      "Are",
+      "Am"
+     ],
+     "dic": "'she' pede <b>Is</b>."
+    }
+   ],
+   "dadosExtra": {
+    "ENUN": "Toque no be que abre a pergunta.",
+    "DEPOIS": "Leia a pergunta inteira antes.",
+    "FECHO": "Every question is ready!"
+   }
+  },
+  {
+   "id": "f20",
+   "mec": "montar-frase",
+   "selo": "BUILD THE QUESTION",
+   "enunciado": "Monte a <b>pergunta</b>: come&#231;a pelo be (Is/Are).",
+   "dica": "Pergunta = be + quem + verbo-ing.",
+   "conceito": "objetivo5",
+   "dados": [
+    {
+     "img": "rn_cooking",
+     "w": [
+      "Is",
+      "she",
+      "cooking"
+     ],
+     "c": [
+      "be",
+      "suj",
+      "ving"
+     ],
+     "apoio": true
+    },
+    {
+     "img": "rn_playing_football",
+     "w": [
+      "Are",
+      "they",
+      "playing"
+     ],
+     "c": [
+      "be",
+      "suj",
+      "ving"
+     ],
+     "apoio": false
+    },
+    {
+     "img": "rn_riding",
+     "w": [
+      "Is",
+      "she",
+      "riding",
+      "a bike"
+     ],
+     "c": [
+      "be",
+      "suj",
+      "ving",
+      "comp"
+     ],
+     "apoio": false
+    }
+   ],
+   "dadosExtra": {
+    "CLA": {
+     "suj": {
+      "r": "quem",
+      "d": "<b>quem</b> faz: I, you, he, she, it, we, they"
+     },
+     "be": {
+      "r": "am/is/are",
+      "d": "o verbo <b>be</b>: am, is ou are"
+     },
+     "ving": {
+      "r": "a&#231;&#227;o -ing",
+      "d": "o verbo com <b>-ing</b>"
+     },
+     "comp": {
+      "r": "o resto",
+      "d": "o <b>complemento</b> da frase"
+     }
+    },
+    "FORMAS": [
+     "be",
+     "suj",
+     "ving",
+     "comp"
+    ]
+   }
   }
- ]
+ ],
+ "voz": "masculina"
 }
