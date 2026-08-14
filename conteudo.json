@@ -1116,38 +1116,58 @@
    "conceito": "objetivo4",
    "dados": [
     {
-     "p": "PLAYING",
-     "ac": "PLAYING",
-     "r": 2,
+     "p": "RIDING",
+     "ac": "RIDING",
+     "r": 6,
      "c": 0,
      "pLin": 0,
      "pCol": 1,
      "n": 1,
-     "d": "She is doing this with a ball, on the field."
+     "d": "She is doing this on two wheels."
+    },
+    {
+     "p": "PLAYING",
+     "ac": "PLAYING",
+     "r": 2,
+     "c": 1,
+     "pLin": 1,
+     "pCol": 0,
+     "n": 2,
+     "d": "He is doing this with a ball, on the field."
+    },
+    {
+     "p": "WRITING",
+     "ac": "WRITING",
+     "r": 2,
+     "c": 3,
+     "pLin": 1,
+     "pCol": 0,
+     "n": 3,
+     "d": "He is doing this with a pen."
     },
     {
      "p": "DANCING",
      "ac": "DANCING",
-     "r": 1,
-     "c": 2,
-     "pLin": 1,
-     "pCol": 0,
-     "n": 2,
-     "d": "She is doing this to the music."
-    },
-    {
-     "p": "RUNNING",
-     "ac": "RUNNING",
      "r": 0,
      "c": 5,
      "pLin": 1,
      "pCol": 0,
-     "n": 3,
-     "d": "He is doing this fast, moving his legs."
+     "n": 4,
+     "d": "She is doing this to the music."
+    },
+    {
+     "p": "READING",
+     "ac": "READING",
+     "r": 0,
+     "c": 2,
+     "pLin": 0,
+     "pCol": 1,
+     "n": 5,
+     "d": "He is doing this with a book."
     }
    ],
    "dadosExtra": {
-    "BANCO": "ACDGILNOPRSTUY"
+    "BANCO": "ACDEGILNPRTWY"
    }
   },
   {
