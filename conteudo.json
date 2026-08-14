@@ -852,62 +852,104 @@
      "alvo": "cook",
      "opcoes": [
       "cook",
-      "bike",
-      "tv",
-      "foot"
+      "wash",
+      "paint",
+      "danca"
      ],
      "rotulo": "THE SENTENCE IS",
      "escrito": "She is cooking.",
      "fala": "She is cooking.",
      "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
-     "hint": "Sem som? A frase est&#225; escrita a&#237; em cima.",
-     "msg": "Yes! She <b>is cooking</b>.",
+     "hint": "Sem som? Toque em <b>Ver a frase</b>.",
+     "msg": "Yes! She is cooking.",
      "dicas": [
-      "Aperte Ouvir e repita baixinho.",
-      "'cooking' = cozinhando: olhe a panela.",
-      "Esta &#233;: ela est&#225; na cozinha."
+      "Aperte Ouvir e escute at&#233; o fim.",
+      "Preste aten&#231;&#227;o no verbo-ing.",
+      "Esta &#233; a foto certa."
      ]
     },
     {
      "selo": "LISTEN 2",
+     "alvo": "jornal",
+     "opcoes": [
+      "jornal",
+      "tv",
+      "listen",
+      "guitar"
+     ],
+     "rotulo": "THE SENTENCE IS",
+     "escrito": "He is reading a newspaper.",
+     "fala": "He is reading a newspaper.",
+     "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
+     "hint": "Sem som? Toque em <b>Ver a frase</b>.",
+     "msg": "Yes! He is reading a newspaper.",
+     "dicas": [
+      "Aperte Ouvir e escute at&#233; o fim.",
+      "Preste aten&#231;&#227;o no verbo-ing.",
+      "Esta &#233; a foto certa."
+     ]
+    },
+    {
+     "selo": "LISTEN 3",
      "alvo": "foot",
      "opcoes": [
       "foot",
+      "bike",
       "danca",
-      "cook",
-      "bike"
+      "cook"
      ],
      "rotulo": "THE SENTENCE IS",
      "escrito": "They are playing football.",
      "fala": "They are playing football.",
      "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
-     "hint": "Sem som? A frase est&#225; escrita a&#237; em cima.",
-     "msg": "Yes! They <b>are playing football</b>.",
+     "hint": "Sem som? Toque em <b>Ver a frase</b>.",
+     "msg": "Yes! They are playing football.",
      "dicas": [
-      "Aperte Ouvir de novo.",
-      "'football' = a bola no campo.",
-      "Esta &#233;: dois meninos e a bola."
+      "Aperte Ouvir e escute at&#233; o fim.",
+      "Preste aten&#231;&#227;o no verbo-ing.",
+      "Esta &#233; a foto certa."
      ]
     },
     {
-     "selo": "LISTEN 3",
-     "alvo": "tv",
+     "selo": "LISTEN 4",
+     "alvo": "bike",
      "opcoes": [
-      "tv",
-      "jornal",
       "bike",
-      "foot"
+      "foot",
+      "guitar",
+      "wash"
      ],
      "rotulo": "THE SENTENCE IS",
-     "escrito": "He is watching TV.",
-     "fala": "He is watching TV.",
+     "escrito": "She is riding a bike.",
+     "fala": "She is riding a bike.",
      "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
-     "hint": "Sem som? A frase est&#225; escrita a&#237; em cima.",
-     "msg": "Yes! He <b>is watching TV</b>.",
+     "hint": "Sem som? Toque em <b>Ver a frase</b>.",
+     "msg": "Yes! She is riding a bike.",
      "dicas": [
       "Aperte Ouvir e escute at&#233; o fim.",
-      "'watching TV' = olhando a televis&#227;o.",
-      "Esta &#233;: o menino no sof&#225; com a TV."
+      "Preste aten&#231;&#227;o no verbo-ing.",
+      "Esta &#233; a foto certa."
+     ]
+    },
+    {
+     "selo": "LISTEN 5",
+     "alvo": "listen",
+     "opcoes": [
+      "listen",
+      "tv",
+      "jornal",
+      "paint"
+     ],
+     "rotulo": "THE SENTENCE IS",
+     "escrito": "He is listening to music.",
+     "fala": "He is listening to music.",
+     "enun": "Ou&#231;a a frase e toque na <b>foto</b> certa.",
+     "hint": "Sem som? Toque em <b>Ver a frase</b>.",
+     "msg": "Yes! He is listening to music.",
+     "dicas": [
+      "Aperte Ouvir e escute at&#233; o fim.",
+      "Preste aten&#231;&#227;o no verbo-ing.",
+      "Esta &#233; a foto certa."
      ]
     }
    ],
@@ -942,13 +984,34 @@
       "nome": "He is reading a newspaper.",
       "voz": "He is reading a newspaper.",
       "img": "rn_reading"
+     },
+     "wash": {
+      "nome": "She is washing the dishes.",
+      "voz": "She is washing the dishes.",
+      "img": "rn_washing"
+     },
+     "listen": {
+      "nome": "He is listening to music.",
+      "voz": "He is listening to music.",
+      "img": "rn_listening"
+     },
+     "paint": {
+      "nome": "She is painting.",
+      "voz": "She is painting.",
+      "img": "rn_painting"
+     },
+     "guitar": {
+      "nome": "He is playing the guitar.",
+      "voz": "He is playing the guitar.",
+      "img": "rn_playing_guitar"
      }
     },
     "TEXTOS": {
      "ouvir": "HEAR IT",
      "ouvirDica": "Pode apertar quantas vezes quiser.",
      "ouvirLeitor": "Ouvir a frase de novo"
-    }
+    },
+    "ESCONDER": "sim"
    }
   },
   {
@@ -1040,7 +1103,8 @@
     ],
     "LETRAS": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
     "TITULO": "-ING VERBS",
-    "MODO": "lista"
+    "MODO": "lista",
+    "DIFICIL": "sim"
    }
   },
   {
@@ -1263,8 +1327,8 @@
    "id": "f19",
    "mec": "completar",
    "selo": "FINISH THE QUESTION",
-   "enunciado": "Toque no be que <b>abre</b> a pergunta.",
-   "dica": "he/she/it &#8594; Is. you/we/they &#8594; Are.",
+   "enunciado": "Toque no verbo certo para <b>come&#231;ar a pergunta</b>.",
+   "dica": "he/she/it come&#231;a com <b>Is</b>; you/we/they com <b>Are</b>.",
    "conceito": "objetivo5",
    "dados": [
     {
