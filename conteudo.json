@@ -124,11 +124,6 @@
      "s": "running"
     },
     {
-     "k": "write",
-     "t": "write",
-     "s": "writing"
-    },
-    {
      "k": "dance",
      "t": "dance",
      "s": "dancing"
@@ -137,6 +132,11 @@
      "k": "sit",
      "t": "sit",
      "s": "sitting"
+    },
+    {
+     "k": "write",
+     "t": "write",
+     "s": "writing"
     }
    ],
    "dadosExtra": {
@@ -820,6 +820,22 @@
       "are",
       "am"
      ]
+    },
+    {
+     "p": "He ___ reading.",
+     "c": "is",
+     "e": [
+      "are",
+      "am"
+     ]
+    },
+    {
+     "p": "We ___ swimming.",
+     "c": "are",
+     "e": [
+      "is",
+      "am"
+     ]
     }
    ]
   },
@@ -981,6 +997,19 @@
       "RUNNING",
       "COOKING"
      ]
+    },
+    {
+     "resp": "RIDING A BIKE",
+     "pistas": [
+      "I am <b>outside</b>, on the street.",
+      "I am on two <b>wheels</b>.",
+      "The wind is on my face — so fast!"
+     ],
+     "outros": [
+      "RUNNING",
+      "WASHING",
+      "READING"
+     ]
     }
    ]
   },
@@ -996,7 +1025,10 @@
     "READING",
     "PLAYING",
     "DANCING",
-    "RUNNING"
+    "RUNNING",
+    "WRITING",
+    "SWIMMING",
+    "SHOPPING"
    ],
    "dadosExtra": {
     "CORP": [
@@ -1085,6 +1117,16 @@
      "p": "SWIMMING",
      "ac": "SWIMMING",
      "d": "She is doing this in the pool."
+    },
+    {
+     "p": "DANCING",
+     "ac": "DANCING",
+     "d": "She is doing this to the music."
+    },
+    {
+     "p": "WRITING",
+     "ac": "WRITING",
+     "d": "He is doing this with a pen."
     }
    ]
   },
@@ -1134,6 +1176,32 @@
       "'They' usa <b>aren't</b> (are + not).",
       "E o verbo continua com -ing: running."
      ]
+    },
+    {
+     "p": "Qual &#233; a <b>negativa</b> de 'He is running'?",
+     "c": "He is not running.",
+     "e": [
+      "He not running.",
+      "He is running not.",
+      "Is he running?"
+     ],
+     "d": [
+      "Negativa = be + <b>not</b>.",
+      "'He is' + not + running &#8594; He is not running."
+     ]
+    },
+    {
+     "p": "Qual &#233; a <b>pergunta</b> de 'She is dancing'?",
+     "c": "Is she dancing?",
+     "e": [
+      "She is dancing?",
+      "Is dancing she?",
+      "She dancing is?"
+     ],
+     "d": [
+      "Pergunta come&#231;a com o <b>be</b>.",
+      "Is + she + dancing? &#8594; Is she dancing?"
+     ]
     }
    ],
    "dadosExtra": {
@@ -1168,6 +1236,16 @@
      "k": "d",
      "t": "Are you reading?",
      "s": "Yes, I am."
+    },
+    {
+     "k": "e",
+     "t": "Is he writing?",
+     "s": "Yes, he is."
+    },
+    {
+     "k": "f",
+     "t": "Are they swimming?",
+     "s": "No, they aren't."
     }
    ],
    "dadosExtra": {
