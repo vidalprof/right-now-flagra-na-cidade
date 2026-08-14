@@ -1183,9 +1183,9 @@
      "d": "She is doing this in the pool."
     },
     {
-     "p": "DANCING",
-     "ac": "DANCING",
-     "d": "She is doing this to the music."
+     "p": "RUNNING",
+     "ac": "RUNNING",
+     "d": "She is doing this fast, in the park."
     },
     {
      "p": "WRITING",
