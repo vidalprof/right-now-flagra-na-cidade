@@ -213,7 +213,7 @@
    "id": "f04",
    "mec": "montar-frase",
    "selo": "BUILD THE SENTENCE",
-   "enunciado": "Toque nas palavras na <b>ordem certa</b>: quem + be + verbo-ing.",
+   "enunciado": "Monte a frase em ingl&#234;s na <b>ordem certa</b>: pessoa + <b>am/is/are</b> + verbo-ing.",
    "dica": "Comece por <b>quem</b> faz a a&#231;&#227;o, depois am/is/are, depois o verbo-ing.",
    "conceito": "objetivo1",
    "dados": [
@@ -1311,8 +1311,8 @@
    "id": "f20",
    "mec": "montar-frase",
    "selo": "BUILD THE QUESTION",
-   "enunciado": "Monte a <b>pergunta</b>: come&#231;a pelo be (Is/Are).",
-   "dica": "Pergunta = be + quem + verbo-ing.",
+   "enunciado": "Monte a <b>pergunta</b> em ingl&#234;s: comece pelo <b>be</b> (Is/Are), depois a pessoa e o verbo-ing.",
+   "dica": "Pergunta come&#231;a com o <b>be</b>: Is/Are + pessoa + verbo-ing.",
    "conceito": "objetivo5",
    "dados": [
     {
